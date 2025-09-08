@@ -1,0 +1,788 @@
+{
+	"joint_correspondence": [
+		{
+			"joint_name": "thigh_fwd_lwr_l",
+			"vID": 46680
+		},
+		{
+			"joint_name": "thigh_in_l",
+			"vID": 49903
+		},
+		{
+			"joint_name": "thigh_bck_lwr_l",
+			"vID": 27756
+		},
+		{
+			"joint_name": "thigh_out_l",
+			"vID": 26943
+		},
+		{
+			"joint_name": "thigh_fwd_l",
+			"vID": 45719
+		},
+		{
+			"joint_name": "thigh_bck_l",
+			"vID": 46118
+		},
+		{
+			"joint_name": "calf_knee_l",
+			"vID": 47816
+		},
+		{
+			"joint_name": "calf_kneeBack_l",
+			"vID": 41656
+		},
+		{
+			"joint_name": "ankle_fwd_l",
+			"vID": 42128
+		},
+		{
+			"joint_name": "ankle_bck_l",
+			"vID": 42142
+		},
+		{
+			"joint_name": "thigh_fwd_lwr_r",
+			"vID": 39066
+		},
+		{
+			"joint_name": "thigh_bck_lwr_r",
+			"vID": 39045
+		},
+		{
+			"joint_name": "thigh_in_r",
+			"vID": 53706
+		},
+		{
+			"joint_name": "thigh_out_r",
+			"vID": 29027
+		},
+		{
+			"joint_name": "thigh_bck_r",
+			"vID": 38511
+		},
+		{
+			"joint_name": "thigh_fwd_r",
+			"vID": 38126
+		},
+		{
+			"joint_name": "calf_knee_r",
+			"vID": 51619
+		},
+		{
+			"joint_name": "calf_kneeBack_r",
+			"vID": 34083
+		},
+		{
+			"joint_name": "ankle_fwd_r",
+			"vID": 29604
+		},
+		{
+			"joint_name": "ankle_bck_r",
+			"vID": 34597
+		},
+		{
+			"joint_name": "clavicle_pec_l",
+			"vID": 45677
+		},
+		{
+			"joint_name": "spine_04_latissimus_r",
+			"vID": 53412
+		},
+		{
+			"joint_name": "spine_04_latissimus_l",
+			"vID": 49609
+		},
+		{
+			"joint_name": "clavicle_pec_r",
+			"vID": 38083
+		},
+		{
+			"joint_name": "clavicle_scap_r",
+			"vID": 39203
+		},
+		{
+			"joint_name": "clavicle_out_r",
+			"vID": 18015
+		},
+		{
+			"joint_name": "upperarm_bicep_r",
+			"vID": 34824
+		},
+		{
+			"joint_name": "upperarm_tricep_r",
+			"vID": 34818
+		},
+		{
+			"joint_name": "lowerarm_bck_r",
+			"vID": 35056
+		},
+		{
+			"joint_name": "lowerarm_fwd_r",
+			"vID": 35027
+		},
+		{
+			"joint_name": "lowerarm_in_r",
+			"vID": 35041
+		},
+		{
+			"joint_name": "lowerarm_out_r",
+			"vID": 35012
+		},
+		{
+			"joint_name": "wrist_outer_r",
+			"vID": 53098
+		},
+		{
+			"joint_name": "wrist_inner_r",
+			"vID": 31171
+		},
+		{
+			"joint_name": "index_metacarpal_slide_r",
+			"vID": 30969
+		},
+		{
+			"joint_name": "index_01_palm_r",
+			"vID": 30792
+		},
+		{
+			"joint_name": "index_01_mcp_r",
+			"vID": 36829
+		},
+		{
+			"joint_name": "index_01_side_inn_r",
+			"vID": 50988
+		},
+		{
+			"joint_name": "index_01_side_out_r",
+			"vID": 32528
+		},
+		{
+			"joint_name": "index_01_bulge_r",
+			"vID": 32515
+		},
+		{
+			"joint_name": "index_01_palmMid_r",
+			"vID": 28389
+		},
+		{
+			"joint_name": "index_02_pip_r",
+			"vID": 28356
+		},
+		{
+			"joint_name": "index_02_in_r",
+			"vID": 28338
+		},
+		{
+			"joint_name": "index_02_side_inn_r",
+			"vID": 32453
+		},
+		{
+			"joint_name": "index_02_side_out_r",
+			"vID": 32456
+		},
+		{
+			"joint_name": "index_02_bulge_r",
+			"vID": 28318
+		},
+		{
+			"joint_name": "index_03_in_r",
+			"vID": 32314
+		},
+		{
+			"joint_name": "index_02_dip_r",
+			"vID": 38789
+		},
+		{
+			"joint_name": "index_03_bulge_r",
+			"vID": 32361
+		},
+		{
+			"joint_name": "middle_metacarpal_slide_r",
+			"vID": 37082
+		},
+		{
+			"joint_name": "middle_01_palm_r",
+			"vID": 30781
+		},
+		{
+			"joint_name": "middle_01_mcp_r",
+			"vID": 36810
+		},
+		{
+			"joint_name": "middle_01_side_inn_r",
+			"vID": 38819
+		},
+		{
+			"joint_name": "middle_01_side_out_r",
+			"vID": 38814
+		},
+		{
+			"joint_name": "middle_01_bulge_r",
+			"vID": 38812
+		},
+		{
+			"joint_name": "middle_01_palmMid_r",
+			"vID": 28222
+		},
+		{
+			"joint_name": "middle_02_in_r",
+			"vID": 38830
+		},
+		{
+			"joint_name": "middle_02_pip_r",
+			"vID": 38825
+		},
+		{
+			"joint_name": "middle_02_side_inn_r",
+			"vID": 50836
+		},
+		{
+			"joint_name": "middle_02_side_out_r",
+			"vID": 32171
+		},
+		{
+			"joint_name": "middle_02_bulge_r",
+			"vID": 32158
+		},
+		{
+			"joint_name": "middle_02_dip_r",
+			"vID": 28099
+		},
+		{
+			"joint_name": "middle_03_in_r",
+			"vID": 28108
+		},
+		{
+			"joint_name": "middle_03_bulge_r",
+			"vID": 32079
+		},
+		{
+			"joint_name": "thumb_01_side_inn_r",
+			"vID": 36887
+		},
+		{
+			"joint_name": "thumb_01_side_out_r",
+			"vID": 37655
+		},
+		{
+			"joint_name": "thumb_02_mcp_r",
+			"vID": 36880
+		},
+		{
+			"joint_name": "thumb_02_in_r",
+			"vID": 32748
+		},
+		{
+			"joint_name": "thumb_02_side_inn_r",
+			"vID": 32736
+		},
+		{
+			"joint_name": "thumb_02_side_out_r",
+			"vID": 51081
+		},
+		{
+			"joint_name": "thumb_02_bulge_r",
+			"vID": 32704
+		},
+		{
+			"joint_name": "thumb_03_in_r",
+			"vID": 32595
+		},
+		{
+			"joint_name": "thumb_03_pip_r",
+			"vID": 32700
+		},
+		{
+			"joint_name": "thumb_03_side_inn_r",
+			"vID": 32589
+		},
+		{
+			"joint_name": "thumb_03_side_out_r",
+			"vID": 32597
+		},
+		{
+			"joint_name": "thumb_03_bulge_r",
+			"vID": 28425
+		},
+		{
+			"joint_name": "ring_metacarpal_slide_r",
+			"vID": 37089
+		},
+		{
+			"joint_name": "ring_01_palm_r",
+			"vID": 30799
+		},
+		{
+			"joint_name": "ring_01_mcp_r",
+			"vID": 36842
+		},
+		{
+			"joint_name": "ring_01_side_inn_r",
+			"vID": 30727
+		},
+		{
+			"joint_name": "ring_01_side_out_r",
+			"vID": 30731
+		},
+		{
+			"joint_name": "ring_01_bulge_r",
+			"vID": 30725
+		},
+		{
+			"joint_name": "ring_01_palmMid_r",
+			"vID": 30745
+		},
+		{
+			"joint_name": "ring_02_pip_r",
+			"vID": 30713
+		},
+		{
+			"joint_name": "ring_02_in_r",
+			"vID": 30697
+		},
+		{
+			"joint_name": "ring_02_side_inn_r",
+			"vID": 36555
+		},
+		{
+			"joint_name": "ring_02_side_out_r",
+			"vID": 52740
+		},
+		{
+			"joint_name": "ring_02_bulge_r",
+			"vID": 36546
+		},
+		{
+			"joint_name": "ring_03_in_r",
+			"vID": 38835
+		},
+		{
+			"joint_name": "ring_02_dip_r",
+			"vID": 38840
+		},
+		{
+			"joint_name": "ring_03_bulge_r",
+			"vID": 28539
+		},
+		{
+			"joint_name": "pinky_metacarpal_slide_r",
+			"vID": 37104
+		},
+		{
+			"joint_name": "pinky_01_palm_r",
+			"vID": 30774
+		},
+		{
+			"joint_name": "pinky_01_mcp_r",
+			"vID": 36800
+		},
+		{
+			"joint_name": "pinky_01_side_inn_r",
+			"vID": 28046
+		},
+		{
+			"joint_name": "pinky_01_side_out_r",
+			"vID": 28050
+		},
+		{
+			"joint_name": "pinky_01_bulge_r",
+			"vID": 31945
+		},
+		{
+			"joint_name": "pinky_01_palmMid_r",
+			"vID": 50761
+		},
+		{
+			"joint_name": "pinky_02_pip_r",
+			"vID": 31939
+		},
+		{
+			"joint_name": "pinky_02_in_r",
+			"vID": 31896
+		},
+		{
+			"joint_name": "pinky_02_side_inn_r",
+			"vID": 31883
+		},
+		{
+			"joint_name": "pinky_02_side_out_r",
+			"vID": 31885
+		},
+		{
+			"joint_name": "pinky_02_bulge_r",
+			"vID": 31875
+		},
+		{
+			"joint_name": "pinky_02_dip_r",
+			"vID": 31867
+		},
+		{
+			"joint_name": "pinky_03_in_r",
+			"vID": 27930
+		},
+		{
+			"joint_name": "pinky_03_bulge_r",
+			"vID": 31765
+		},
+		{
+			"joint_name": "upperarm_out_r",
+			"vID": 31423
+		},
+		{
+			"joint_name": "upperarm_fwd_r",
+			"vID": 39122
+		},
+		{
+			"joint_name": "upperarm_in_r",
+			"vID": 31286
+		},
+		{
+			"joint_name": "upperarm_bck_r",
+			"vID": 39199
+		},
+		{
+			"joint_name": "clavicle_scap_l",
+			"vID": 31643
+		},
+		{
+			"joint_name": "clavicle_out_l",
+			"vID": 11949
+		},
+		{
+			"joint_name": "upperarm_bicep_l",
+			"vID": 25400
+		},
+		{
+			"joint_name": "upperarm_tricep_l",
+			"vID": 48134
+		},
+		{
+			"joint_name": "lowerarm_bck_l",
+			"vID": 42631
+		},
+		{
+			"joint_name": "lowerarm_fwd_l",
+			"vID": 42603
+		},
+		{
+			"joint_name": "lowerarm_out_l",
+			"vID": 42586
+		},
+		{
+			"joint_name": "lowerarm_in_l",
+			"vID": 42615
+		},
+		{
+			"joint_name": "wrist_outer_l",
+			"vID": 49295
+		},
+		{
+			"joint_name": "wrist_inner_l",
+			"vID": 27313
+		},
+		{
+			"joint_name": "index_metacarpal_slide_l",
+			"vID": 26338
+		},
+		{
+			"joint_name": "index_01_palm_l",
+			"vID": 26224
+		},
+		{
+			"joint_name": "index_01_mcp_l",
+			"vID": 44405
+		},
+		{
+			"joint_name": "index_01_side_inn_l",
+			"vID": 47185
+		},
+		{
+			"joint_name": "index_01_side_out_l",
+			"vID": 40091
+		},
+		{
+			"joint_name": "index_01_bulge_l",
+			"vID": 40079
+		},
+		{
+			"joint_name": "index_01_palmMid_l",
+			"vID": 24498
+		},
+		{
+			"joint_name": "index_02_pip_l",
+			"vID": 27331
+		},
+		{
+			"joint_name": "index_02_in_l",
+			"vID": 27336
+		},
+		{
+			"joint_name": "index_02_side_inn_l",
+			"vID": 40014
+		},
+		{
+			"joint_name": "index_02_side_out_l",
+			"vID": 40016
+		},
+		{
+			"joint_name": "index_02_bulge_l",
+			"vID": 24401
+		},
+		{
+			"joint_name": "index_03_in_l",
+			"vID": 39875
+		},
+		{
+			"joint_name": "index_02_dip_l",
+			"vID": 46399
+		},
+		{
+			"joint_name": "index_03_bulge_l",
+			"vID": 39921
+		},
+		{
+			"joint_name": "middle_metacarpal_slide_l",
+			"vID": 44654
+		},
+		{
+			"joint_name": "middle_01_palm_l",
+			"vID": 26215
+		},
+		{
+			"joint_name": "middle_01_mcp_l",
+			"vID": 44386
+		},
+		{
+			"joint_name": "middle_01_side_inn_l",
+			"vID": 46430
+		},
+		{
+			"joint_name": "middle_01_side_out_l",
+			"vID": 46425
+		},
+		{
+			"joint_name": "middle_01_bulge_l",
+			"vID": 46422
+		},
+		{
+			"joint_name": "middle_01_palmMid_l",
+			"vID": 24375
+		},
+		{
+			"joint_name": "middle_02_in_l",
+			"vID": 46441
+		},
+		{
+			"joint_name": "middle_02_pip_l",
+			"vID": 46436
+		},
+		{
+			"joint_name": "middle_02_side_inn_l",
+			"vID": 47033
+		},
+		{
+			"joint_name": "middle_02_side_out_l",
+			"vID": 39734
+		},
+		{
+			"joint_name": "middle_02_bulge_l",
+			"vID": 39722
+		},
+		{
+			"joint_name": "middle_02_dip_l",
+			"vID": 27466
+		},
+		{
+			"joint_name": "middle_03_in_l",
+			"vID": 27461
+		},
+		{
+			"joint_name": "middle_03_bulge_l",
+			"vID": 39639
+		},
+		{
+			"joint_name": "thumb_01_side_inn_l",
+			"vID": 44459
+		},
+		{
+			"joint_name": "thumb_01_side_out_l",
+			"vID": 45229
+		},
+		{
+			"joint_name": "thumb_02_mcp_l",
+			"vID": 44453
+		},
+		{
+			"joint_name": "thumb_02_in_l",
+			"vID": 40308
+		},
+		{
+			"joint_name": "thumb_02_side_inn_l",
+			"vID": 40300
+		},
+		{
+			"joint_name": "thumb_02_side_out_l",
+			"vID": 47278
+		},
+		{
+			"joint_name": "thumb_02_bulge_l",
+			"vID": 40265
+		},
+		{
+			"joint_name": "thumb_03_in_l",
+			"vID": 40154
+		},
+		{
+			"joint_name": "thumb_03_pip_l",
+			"vID": 40263
+		},
+		{
+			"joint_name": "thumb_03_side_inn_l",
+			"vID": 40153
+		},
+		{
+			"joint_name": "thumb_03_side_out_l",
+			"vID": 40160
+		},
+		{
+			"joint_name": "thumb_03_bulge_l",
+			"vID": 26671
+		},
+		{
+			"joint_name": "ring_metacarpal_slide_l",
+			"vID": 44660
+		},
+		{
+			"joint_name": "ring_01_palm_l",
+			"vID": 26231
+		},
+		{
+			"joint_name": "ring_01_mcp_l",
+			"vID": 44418
+		},
+		{
+			"joint_name": "ring_01_side_inn_l",
+			"vID": 26170
+		},
+		{
+			"joint_name": "ring_01_side_out_l",
+			"vID": 26174
+		},
+		{
+			"joint_name": "ring_01_bulge_l",
+			"vID": 26168
+		},
+		{
+			"joint_name": "ring_01_palmMid_l",
+			"vID": 26188
+		},
+		{
+			"joint_name": "ring_02_pip_l",
+			"vID": 27341
+		},
+		{
+			"joint_name": "ring_02_in_l",
+			"vID": 27346
+		},
+		{
+			"joint_name": "ring_02_side_inn_l",
+			"vID": 44131
+		},
+		{
+			"joint_name": "ring_02_side_out_l",
+			"vID": 48937
+		},
+		{
+			"joint_name": "ring_02_bulge_l",
+			"vID": 44122
+		},
+		{
+			"joint_name": "ring_03_in_l",
+			"vID": 46446
+		},
+		{
+			"joint_name": "ring_02_dip_l",
+			"vID": 46451
+		},
+		{
+			"joint_name": "ring_03_bulge_l",
+			"vID": 27451
+		},
+		{
+			"joint_name": "pinky_metacarpal_slide_l",
+			"vID": 44676
+		},
+		{
+			"joint_name": "pinky_01_palm_l",
+			"vID": 26206
+		},
+		{
+			"joint_name": "pinky_01_mcp_l",
+			"vID": 44373
+		},
+		{
+			"joint_name": "pinky_01_side_inn_l",
+			"vID": 24239
+		},
+		{
+			"joint_name": "pinky_01_side_out_l",
+			"vID": 24243
+		},
+		{
+			"joint_name": "pinky_01_bulge_l",
+			"vID": 39506
+		},
+		{
+			"joint_name": "pinky_01_palmMid_l",
+			"vID": 46958
+		},
+		{
+			"joint_name": "pinky_02_pip_l",
+			"vID": 39500
+		},
+		{
+			"joint_name": "pinky_02_in_l",
+			"vID": 39458
+		},
+		{
+			"joint_name": "pinky_02_side_inn_l",
+			"vID": 39445
+		},
+		{
+			"joint_name": "pinky_02_side_out_l",
+			"vID": 39446
+		},
+		{
+			"joint_name": "pinky_02_bulge_l",
+			"vID": 39436
+		},
+		{
+			"joint_name": "pinky_02_dip_l",
+			"vID": 39429
+		},
+		{
+			"joint_name": "pinky_03_in_l",
+			"vID": 24153
+		},
+		{
+			"joint_name": "pinky_03_bulge_l",
+			"vID": 39326
+		},
+		{
+			"joint_name": "upperarm_out_l",
+			"vID": 27833
+		},
+		{
+			"joint_name": "upperarm_in_l",
+			"vID": 27012
+		},
+		{
+			"joint_name": "upperarm_fwd_l",
+			"vID": 50544
+		},
+		{
+			"joint_name": "upperarm_bck_l",
+			"vID": 31639
+		}
+	]
+}

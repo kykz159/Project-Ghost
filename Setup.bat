@@ -9,6 +9,31 @@ for %%P in (%*) do if /I "%%P" == "--force" goto no_prompt_argument
 set PROMPT_ARGUMENT=--prompt
 :no_prompt_argument
 
+rem Check if GitDependencies.exe exists, if not build it first
+if not exist ".\Engine\Binaries\DotNET\GitDependencies\win-x64\GitDependencies.exe" (
+    echo GitDependencies.exe not found. Building it first...
+    
+    rem Check if dotnet is available
+    dotnet --version >nul 2>&1
+    if errorlevel 1 (
+        echo ERROR: .NET SDK not found. Please install .NET SDK 6.0 or later.
+        pause
+        goto error
+    )
+    
+    echo Building GitDependencies...
+    pushd ".\Engine\Source\Programs\GitDependencies"
+    dotnet publish GitDependencies.csproj -r win-x64 -c Release --output "..\..\..\Binaries\DotNET\GitDependencies\win-x64" --nologo --self-contained
+    if errorlevel 1 (
+        echo ERROR: Failed to build GitDependencies.
+        popd
+        pause
+        goto error
+    )
+    popd
+    echo GitDependencies built successfully.
+)
+
 rem Sync the dependencies...
 .\Engine\Binaries\DotNET\GitDependencies\win-x64\GitDependencies.exe %PROMPT_ARGUMENT% %*
 if %ERRORLEVEL% NEQ 0 goto error

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft-04/schema",
+  
+  "definitions": {
+
+    "SchemaVersionFormat": {
+      "type": "object",
+      "properties": {
+        "Major": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "Minor": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "required": [
+        "Major",
+        "Minor"
+      ],
+      "additionalProperties": false
+    }
+  },
+
+  "type": "object",
+  "properties": {
+    "Version": {
+      "$ref": "#/definitions/SchemaVersionFormat"
+    }
+  },
+  "required": [
+    "Version"
+  ]
+}

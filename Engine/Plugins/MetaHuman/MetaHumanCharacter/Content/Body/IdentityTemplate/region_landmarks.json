@@ -1,0 +1,23 @@
+{
+"pelvis": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 45494 },
+"spine_03": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 45482 },
+"spine_04": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 24090 },
+"neck_01": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 17978 },
+"head": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 2914 },
+"upperarm_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 39113 },
+"lowerarm_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 34968 },
+"hand_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 30877 },
+"upperarm_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 46731 },
+"lowerarm_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 42541 },
+"hand_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 26286 },
+"thigh_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 33787 },
+"calf_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 34345 },
+"foot_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 35630 },
+"thigh_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 41360 },
+"calf_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 41920 },
+"foot_l": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 43205 },
+"gluteus": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 46717 },
+"groin": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 24081 },
+"wrist_r": { "type": "landmark", "mesh": "combined_lod0_mesh", "vID": 37392 },
+"wrist_l": {"type": "landmark", "mesh":"combined_lod0_mesh", "vID": 44963}
+}

@@ -1,0 +1,2 @@
+Tracking models come from Hyprsense/Hyprface2D-python repo: tag hyprface-0.1.4
+Config file configs/tracking_config_offline_onnx_MHA.json specifies the exact model file for each part of the parts-based tracker.

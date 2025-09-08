@@ -1,0 +1,43 @@
+{
+    "Version": {
+        "Major": 1,
+        "Minor": 0
+    },
+    "DateTime": "2023-02-27T08:57:17.796000Z",
+    "UniqueId": "a78613f3-e660-47e4-af6a-1298cde7c947",
+    "TakeNumber": 4,
+    "Slate": "Take",
+    "Device": {
+        "Type": "iPhone",
+        "Model": "iPhone13,3",
+        "UserId": "UserDev001",
+        "Platform": {
+            "Name": "iOS",
+            "Version": {
+                "Major": 17,
+                "Minor": 2,
+                "Patch": 1
+            }
+        },
+        "Software": [
+            {
+                "Name": "Live Link Face",
+                "Version": {
+                    "Major": 2,
+                    "Minor": 5,
+                    "Patch": 7
+                }
+            }
+        ]
+    },
+	"Video": [],
+    "Audio": [
+        {
+			"UserId": "Mic",
+			"Path": "audio.wav",
+			"Duration": 5.4,
+			"TimecodeRate": 60.0,
+			"TimecodeStart": "09:01:41:08.600"
+        }
+    ]
+}

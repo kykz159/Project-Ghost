@@ -1,0 +1,2 @@
+Tracking models copied on 19th Jan 2024. See README.md in Research/Wav2Face repo: tag wav2face-0.0.10 
+(onnx models exported for use in UE).

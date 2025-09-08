@@ -1,0 +1,49 @@
+{
+    "Version": {
+        "Major": 1,
+        "Minor": 0
+    },
+    "DateTime": "2023-02-27T08:57:17.796000Z",
+    "UniqueId": "a78613f3-e660-47e4-af6a-1298cde7c947",
+    "TakeNumber": 6,
+    "Slate": "Take",
+    "Device": {
+        "Type": "iPhone",
+        "Model": "iPhone13,3",
+        "UserId": "UserDev001",
+        "Platform": {
+            "Name": "iOS",
+            "Version": {
+                "Major": 17,
+                "Minor": 2,
+                "Patch": 1
+            }
+        },
+        "Software": [
+            {
+                "Name": "Live Link Face",
+                "Version": {
+                    "Major": 2,
+                    "Minor": 5,
+                    "Patch": 7
+                }
+            }
+        ]
+    },
+    "Depth": [
+        {
+            "UserId": "Camera",
+            "Path": "depth_data.bin",
+            "PathType": "File",
+            "Format": "bin",
+            "Orientation": "CW270",
+            "FramesCount": 1,
+            "DroppedFrames": [],
+            "FrameHeight": 360,
+            "FrameWidth": 640,
+            "FrameRate": 30,
+            "TimecodeStart": "09:01:41:01.300",
+            "TimecodeRate": 30
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+  "$schema": "https://json-schema.org/draft-04/schema",
+  
+  "definitions": {
+
+    "TimecodeFormat": {
+      "type": "string",
+      "pattern": "(([0-1][0-9]|[0-2][0-3]):)([0-5][0-9]:)([0-5][0-9][:;])([0-5][0-9])(\\.[0-9]{3})?"
+    },
+
+    "UniqueIdFormat": {
+      "type": "string",
+      "format": "uuid",
+      "pattern": "(^[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}$)"
+    },
+
+    "VideoOrImageSequence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "UserId": {
+            "type": "string"
+          },
+          "Path": {
+            "type": "string"
+          },
+          "PathType": {
+            "type": "string",
+            "enum": [
+              "File",
+              "Folder"
+            ]
+          },
+          "Format": {
+            "type": "string"
+          },
+          "Orientation": {
+            "type": "string",
+            "enum": [
+              "Original",
+              "CW90",
+              "CW180",
+              "CW270"
+            ]
+          },
+          "FramesCount": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "DroppedFrames": {
+            "type": "array",
+            "items": {
+              "type": "integer",
+              "minimum": 0
+            }
+          },
+          "FrameHeight": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "FrameWidth": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "FrameRate": {
+            "type": "number",
+            "minimum": 0
+          },
+          "TimecodeStart": {
+            "$ref": "#/definitions/TimecodeFormat"
+          },
+          "TimecodeRate": {
+            "type": "number",
+            "minimum": 0
+          }
+        },
+        "required": [
+          "UserId",
+          "Path",
+          "Format",
+          "FrameRate"
+        ]
+      }
+    }
+
+  },
+  
+
+  "type": "object",
+  "properties": {
+    "Version": {
+      "$ref": "version.json#/definitions/SchemaVersionFormat"
+    },
+    "DateTime": {
+      "type": "string",
+      "pattern": "[0-9]{4}-[01][0-9]-[0-3][0-9]T[0-2][0-9]:[0-5][0-9]:[0-5][0-9].[0-9]+([+-][0-2][0-9]:[0-5][0-9]|Z)"
+    },
+    "Thumbnail": {
+      "type": "string"
+    },
+    "UniqueId": {
+      "$ref": "#/definitions/UniqueIdFormat"
+    },
+    "TakeNumber": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "Slate": {
+      "type": "string"
+    },
+    "Device": {
+      "type": "object",
+      "properties": {
+        "Type": {
+          "type": "string"
+        },
+        "Model": {
+          "type": "string"
+        },
+        "UserId": {
+          "type": "string"
+        },
+        "Platform": {
+          "type": "object",
+          "properties": {
+            "Name": {
+              "type": "string",
+              "enum": [
+                "iOS",
+                "Android",
+                "Windows",
+                "Linux",
+                "macOS"
+              ]
+            },
+            "Version": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Name"
+          ]
+        },
+        "Software": {
+          "type": "array",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "Name": {
+                  "type": "string"
+                },
+                "Version": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "Name"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "Type",
+        "Model",
+        "UserId"
+      ]
+    },
+    "Video": {
+      "$ref": "#/definitions/VideoOrImageSequence"
+    },
+    "Depth": {
+      "$ref": "#/definitions/VideoOrImageSequence"
+    },
+
+    "Calibration": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "UserId": {
+              "type": "string"
+            },
+            "Format": {
+              "type": "string"
+            },
+            "Path": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "UserId",
+            "Format",
+            "Path"
+          ]
+        }
+      ]
+    },
+    "Audio": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "UserId": {
+              "type": "string"
+            },
+            "Path": {
+              "type": "string"
+            },
+            "Duration": {
+              "type": "number",
+              "minimum": 0
+            },
+            "TimecodeRate": {
+              "type": "number",
+              "minimum": 0
+            },
+            "TimecodeStart": {
+              "$ref": "#/definitions/TimecodeFormat"
+            }
+          },
+          "required": [
+            "UserId",
+            "Path"
+          ]
+        }
+      ]
+    },
+    "Animation": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "Path": {
+              "type": "string"
+            },
+            "Format": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Path",
+            "Format"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "Version",
+    "UniqueId",
+    "TakeNumber",
+    "Slate",
+    "Device"
+  ]
+}

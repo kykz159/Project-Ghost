@@ -1,0 +1,2038 @@
+CurveName="back "
+CurveName="back_sideLeft "
+CurveName="back_sideRight "
+CurveName="blendParent1"
+CurveName="BrowDownLeft"
+CurveName="BrowDownRight"
+CurveName="BrowInnerUp"
+CurveName="BrowOuterUpLeft"
+CurveName="BrowOuterUpRight"
+CurveName="cartilage_lod0_mesh__Braise_Eblink_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Eblink_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Eblink_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Eblink_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_ElookDown_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_ElookDown_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_ElookDown_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_ElookDown_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Ewiden_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Ewiden_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Ewiden_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__Braise_Ewiden_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_EsquintInner_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_EsquintInner_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_EsquintInner_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_EsquintInner_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EcheekRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EfaceScrunch_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EfaceScrunch_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElidPress_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElidPress_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_ElookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_Ewiden_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookDown_Ewiden_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__ElookUp_ElookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EsquintInner_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__EsquintInner_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_blink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_blink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_cheekRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_cheekRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookDown_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookDown_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lookUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lowerLidDown_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lowerLidDown_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lowerLidUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_lowerLidUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_relax_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_relax_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_squintInner_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_squintInner_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_upperLidUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_upperLidUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_widen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="cartilage_lod0_mesh__eye_widen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="CheekPuff"
+CurveName="CheekSquintLeft"
+CurveName="CheekSquintRight"
+CurveName="CTRL_expressions_browDownL"
+CurveName="CTRL_expressions_browDownR"
+CurveName="CTRL_expressions_browLateralL"
+CurveName="CTRL_expressions_browLateralR"
+CurveName="CTRL_expressions_browRaiseInL"
+CurveName="CTRL_expressions_browRaiseInR"
+CurveName="CTRL_expressions_browRaiseOuterL"
+CurveName="CTRL_expressions_browRaiseOuterR"
+CurveName="CTRL_expressions_earUpL"
+CurveName="CTRL_expressions_earUpR"
+CurveName="CTRL_expressions_eyeBlinkL"
+CurveName="CTRL_expressions_eyeBlinkR"
+CurveName="CTRL_expressions_eyeCheekRaiseL"
+CurveName="CTRL_expressions_eyeCheekRaiseR"
+CurveName="CTRL_expressions_eyeFaceScrunchL"
+CurveName="CTRL_expressions_eyeFaceScrunchR"
+CurveName="CTRL_expressions_eyelashesDownINL"
+CurveName="CTRL_expressions_eyelashesDownINR"
+CurveName="CTRL_expressions_eyelashesDownOUTL"
+CurveName="CTRL_expressions_eyelashesDownOUTR"
+CurveName="CTRL_expressions_eyelashesUpINL"
+CurveName="CTRL_expressions_eyelashesUpINR"
+CurveName="CTRL_expressions_eyelashesUpOUTL"
+CurveName="CTRL_expressions_eyelashesUpOUTR"
+CurveName="CTRL_expressions_eyeLidPressL"
+CurveName="CTRL_expressions_eyeLidPressR"
+CurveName="CTRL_expressions_eyeLookDownL"
+CurveName="CTRL_expressions_eyeLookDownR"
+CurveName="CTRL_expressions_eyeLookLeftL"
+CurveName="CTRL_expressions_eyeLookLeftR"
+CurveName="CTRL_expressions_eyeLookRightL"
+CurveName="CTRL_expressions_eyeLookRightR"
+CurveName="CTRL_expressions_eyeLookUpL"
+CurveName="CTRL_expressions_eyeLookUpR"
+CurveName="CTRL_expressions_eyeLowerLidDownL"
+CurveName="CTRL_expressions_eyeLowerLidDownR"
+CurveName="CTRL_expressions_eyeLowerLidUpL"
+CurveName="CTRL_expressions_eyeLowerLidUpR"
+CurveName="CTRL_expressions_eyeParallelLookDirection"
+CurveName="CTRL_expressions_eyePupilNarrowL"
+CurveName="CTRL_expressions_eyePupilNarrowR"
+CurveName="CTRL_expressions_eyePupilWideL"
+CurveName="CTRL_expressions_eyePupilWideR"
+CurveName="CTRL_expressions_eyeRelaxL"
+CurveName="CTRL_expressions_eyeRelaxR"
+CurveName="CTRL_expressions_eyeSquintInnerL"
+CurveName="CTRL_expressions_eyeSquintInnerR"
+CurveName="CTRL_expressions_eyeUpperLidUpL"
+CurveName="CTRL_expressions_eyeUpperLidUpR"
+CurveName="CTRL_expressions_eyeWidenL"
+CurveName="CTRL_expressions_eyeWidenR"
+CurveName="CTRL_expressions_headTiltLeftD"
+CurveName="CTRL_expressions_headTiltLeftM"
+CurveName="CTRL_expressions_headTiltLeftU"
+CurveName="CTRL_expressions_headTiltRightD"
+CurveName="CTRL_expressions_headTiltRightM"
+CurveName="CTRL_expressions_headTiltRightU"
+CurveName="CTRL_expressions_headTurnDownD"
+CurveName="CTRL_expressions_headTurnDownM"
+CurveName="CTRL_expressions_headTurnDownU"
+CurveName="CTRL_expressions_headTurnLeftD"
+CurveName="CTRL_expressions_headTurnLeftM"
+CurveName="CTRL_expressions_headTurnLeftU"
+CurveName="CTRL_expressions_headTurnRightD"
+CurveName="CTRL_expressions_headTurnRightM"
+CurveName="CTRL_expressions_headTurnRightU"
+CurveName="CTRL_expressions_headTurnUpD"
+CurveName="CTRL_expressions_headTurnUpM"
+CurveName="CTRL_expressions_headTurnUpU"
+CurveName="CTRL_expressions_jawBack"
+CurveName="CTRL_expressions_jawChinCompressL"
+CurveName="CTRL_expressions_jawChinCompressR"
+CurveName="CTRL_expressions_jawChinRaiseDL"
+CurveName="CTRL_expressions_jawChinRaiseDR"
+CurveName="CTRL_expressions_jawChinRaiseUL"
+CurveName="CTRL_expressions_jawChinRaiseUR"
+CurveName="CTRL_expressions_jawClenchL"
+CurveName="CTRL_expressions_jawClenchR"
+CurveName="CTRL_expressions_jawFwd"
+CurveName="CTRL_expressions_jawLeft"
+CurveName="CTRL_expressions_jawOpen"
+CurveName="CTRL_expressions_jawOpenExtreme"
+CurveName="CTRL_expressions_jawRight"
+CurveName="CTRL_expressions_lookAtSwitch"
+CurveName="CTRL_expressions_mouthCheekBlowL"
+CurveName="CTRL_expressions_mouthCheekBlowR"
+CurveName="CTRL_expressions_mouthCheekSuckL"
+CurveName="CTRL_expressions_mouthCheekSuckR"
+CurveName="CTRL_expressions_mouthCornerDepressL"
+CurveName="CTRL_expressions_mouthCornerDepressR"
+CurveName="CTRL_expressions_mouthCornerDownL"
+CurveName="CTRL_expressions_mouthCornerDownR"
+CurveName="CTRL_expressions_mouthCornerNarrowL"
+CurveName="CTRL_expressions_mouthCornerNarrowR"
+CurveName="CTRL_expressions_mouthCornerPullL"
+CurveName="CTRL_expressions_mouthCornerPullR"
+CurveName="CTRL_expressions_mouthCornerRounderDL"
+CurveName="CTRL_expressions_mouthCornerRounderDR"
+CurveName="CTRL_expressions_mouthCornerRounderUL"
+CurveName="CTRL_expressions_mouthCornerRounderUR"
+CurveName="CTRL_expressions_mouthCornerSharpenDL"
+CurveName="CTRL_expressions_mouthCornerSharpenDR"
+CurveName="CTRL_expressions_mouthCornerSharpenUL"
+CurveName="CTRL_expressions_mouthCornerSharpenUR"
+CurveName="CTRL_expressions_mouthCornerUpL"
+CurveName="CTRL_expressions_mouthCornerUpR"
+CurveName="CTRL_expressions_mouthCornerWideL"
+CurveName="CTRL_expressions_mouthCornerWideR"
+CurveName="CTRL_expressions_mouthDimpleL"
+CurveName="CTRL_expressions_mouthDimpleR"
+CurveName="CTRL_expressions_mouthDown"
+CurveName="CTRL_expressions_mouthFunnelDL"
+CurveName="CTRL_expressions_mouthFunnelDR"
+CurveName="CTRL_expressions_mouthFunnelUL"
+CurveName="CTRL_expressions_mouthFunnelUR"
+CurveName="CTRL_expressions_mouthLeft"
+CurveName="CTRL_expressions_mouthLipsBlowL"
+CurveName="CTRL_expressions_mouthLipsBlowR"
+CurveName="CTRL_expressions_mouthLipsPressL"
+CurveName="CTRL_expressions_mouthLipsPressR"
+CurveName="CTRL_expressions_mouthLipsPullDL"
+CurveName="CTRL_expressions_mouthLipsPullDR"
+CurveName="CTRL_expressions_mouthLipsPullUL"
+CurveName="CTRL_expressions_mouthLipsPullUR"
+CurveName="CTRL_expressions_mouthLipsPurseDL"
+CurveName="CTRL_expressions_mouthLipsPurseDR"
+CurveName="CTRL_expressions_mouthLipsPurseUL"
+CurveName="CTRL_expressions_mouthLipsPurseUR"
+CurveName="CTRL_expressions_mouthLipsPushDL"
+CurveName="CTRL_expressions_mouthLipsPushDR"
+CurveName="CTRL_expressions_mouthLipsPushUL"
+CurveName="CTRL_expressions_mouthLipsPushUR"
+CurveName="CTRL_expressions_mouthLipsStickyLPh1"
+CurveName="CTRL_expressions_mouthLipsStickyLPh2"
+CurveName="CTRL_expressions_mouthLipsStickyLPh3"
+CurveName="CTRL_expressions_mouthLipsStickyRPh1"
+CurveName="CTRL_expressions_mouthLipsStickyRPh2"
+CurveName="CTRL_expressions_mouthLipsStickyRPh3"
+CurveName="CTRL_expressions_mouthLipsThickDL"
+CurveName="CTRL_expressions_mouthLipsThickDR"
+CurveName="CTRL_expressions_mouthLipsThickInwardDL"
+CurveName="CTRL_expressions_mouthLipsThickInwardDR"
+CurveName="CTRL_expressions_mouthLipsThickInwardUL"
+CurveName="CTRL_expressions_mouthLipsThickInwardUR"
+CurveName="CTRL_expressions_mouthLipsThickUL"
+CurveName="CTRL_expressions_mouthLipsThickUR"
+CurveName="CTRL_expressions_mouthLipsThinDL"
+CurveName="CTRL_expressions_mouthLipsThinDR"
+CurveName="CTRL_expressions_mouthLipsThinInwardDL"
+CurveName="CTRL_expressions_mouthLipsThinInwardDR"
+CurveName="CTRL_expressions_mouthLipsThinInwardUL"
+CurveName="CTRL_expressions_mouthLipsThinInwardUR"
+CurveName="CTRL_expressions_mouthLipsThinUL"
+CurveName="CTRL_expressions_mouthLipsThinUR"
+CurveName="CTRL_expressions_mouthLipsTightenDL"
+CurveName="CTRL_expressions_mouthLipsTightenDR"
+CurveName="CTRL_expressions_mouthLipsTightenUL"
+CurveName="CTRL_expressions_mouthLipsTightenUR"
+CurveName="CTRL_expressions_mouthLipsTogetherDL"
+CurveName="CTRL_expressions_mouthLipsTogetherDR"
+CurveName="CTRL_expressions_mouthLipsTogetherUL"
+CurveName="CTRL_expressions_mouthLipsTogetherUR"
+CurveName="CTRL_expressions_mouthLipsTowardsDL"
+CurveName="CTRL_expressions_mouthLipsTowardsDR"
+CurveName="CTRL_expressions_mouthLipsTowardsUL"
+CurveName="CTRL_expressions_mouthLipsTowardsUR"
+CurveName="CTRL_expressions_mouthLowerLipBiteL"
+CurveName="CTRL_expressions_mouthLowerLipBiteR"
+CurveName="CTRL_expressions_mouthLowerLipDepressL"
+CurveName="CTRL_expressions_mouthLowerLipDepressR"
+CurveName="CTRL_expressions_mouthLowerLipRollInL"
+CurveName="CTRL_expressions_mouthLowerLipRollInR"
+CurveName="CTRL_expressions_mouthLowerLipRollOutL"
+CurveName="CTRL_expressions_mouthLowerLipRollOutR"
+CurveName="CTRL_expressions_mouthLowerLipShiftLeft"
+CurveName="CTRL_expressions_mouthLowerLipShiftRight"
+CurveName="CTRL_expressions_mouthLowerLipTowardsTeethL"
+CurveName="CTRL_expressions_mouthLowerLipTowardsTeethR"
+CurveName="CTRL_expressions_mouthPressDL"
+CurveName="CTRL_expressions_mouthPressDR"
+CurveName="CTRL_expressions_mouthPressUL"
+CurveName="CTRL_expressions_mouthPressUR"
+CurveName="CTRL_expressions_mouthRight"
+CurveName="CTRL_expressions_mouthSharpCornerPullL"
+CurveName="CTRL_expressions_mouthSharpCornerPullR"
+CurveName="CTRL_expressions_mouthStickyDC"
+CurveName="CTRL_expressions_mouthStickyDINL"
+CurveName="CTRL_expressions_mouthStickyDINR"
+CurveName="CTRL_expressions_mouthStickyDOUTL"
+CurveName="CTRL_expressions_mouthStickyDOUTR"
+CurveName="CTRL_expressions_mouthStickyUC"
+CurveName="CTRL_expressions_mouthStickyUINL"
+CurveName="CTRL_expressions_mouthStickyUINR"
+CurveName="CTRL_expressions_mouthStickyUOUTL"
+CurveName="CTRL_expressions_mouthStickyUOUTR"
+CurveName="CTRL_expressions_mouthStretchL"
+CurveName="CTRL_expressions_mouthStretchLipsCloseL"
+CurveName="CTRL_expressions_mouthStretchLipsCloseR"
+CurveName="CTRL_expressions_mouthStretchR"
+CurveName="CTRL_expressions_mouthUp"
+CurveName="CTRL_expressions_mouthUpperLipBiteL"
+CurveName="CTRL_expressions_mouthUpperLipBiteR"
+CurveName="CTRL_expressions_mouthUpperLipRaiseL"
+CurveName="CTRL_expressions_mouthUpperLipRaiseR"
+CurveName="CTRL_expressions_mouthUpperLipRollInL"
+CurveName="CTRL_expressions_mouthUpperLipRollInR"
+CurveName="CTRL_expressions_mouthUpperLipRollOutL"
+CurveName="CTRL_expressions_mouthUpperLipRollOutR"
+CurveName="CTRL_expressions_mouthUpperLipShiftLeft"
+CurveName="CTRL_expressions_mouthUpperLipShiftRight"
+CurveName="CTRL_expressions_mouthUpperLipTowardsTeethL"
+CurveName="CTRL_expressions_mouthUpperLipTowardsTeethR"
+CurveName="CTRL_expressions_neckDigastricDown"
+CurveName="CTRL_expressions_neckDigastricUp"
+CurveName="CTRL_expressions_neckMastoidContractL"
+CurveName="CTRL_expressions_neckMastoidContractR"
+CurveName="CTRL_expressions_neckStretchL"
+CurveName="CTRL_expressions_neckStretchR"
+CurveName="CTRL_expressions_neckSwallowPh1"
+CurveName="CTRL_expressions_neckSwallowPh2"
+CurveName="CTRL_expressions_neckSwallowPh3"
+CurveName="CTRL_expressions_neckSwallowPh4"
+CurveName="CTRL_expressions_neckSwallowPh5"
+CurveName="CTRL_expressions_neckThroatDown"
+CurveName="CTRL_expressions_neckThroatExhale"
+CurveName="CTRL_expressions_neckThroatInhale"
+CurveName="CTRL_expressions_neckThroatUp"
+CurveName="CTRL_expressions_noseNasolabialDeepenL"
+CurveName="CTRL_expressions_noseNasolabialDeepenR"
+CurveName="CTRL_expressions_noseNostrilCompressL"
+CurveName="CTRL_expressions_noseNostrilCompressR"
+CurveName="CTRL_expressions_noseNostrilDepressL"
+CurveName="CTRL_expressions_noseNostrilDepressR"
+CurveName="CTRL_expressions_noseNostrilDilateL"
+CurveName="CTRL_expressions_noseNostrilDilateR"
+CurveName="CTRL_expressions_noseWrinkleL"
+CurveName="CTRL_expressions_noseWrinkleR"
+CurveName="CTRL_expressions_noseWrinkleUpperL"
+CurveName="CTRL_expressions_noseWrinkleUpperR"
+CurveName="CTRL_expressions_skullUnified"
+CurveName="CTRL_expressions_teethBackD"
+CurveName="CTRL_expressions_teethBackU"
+CurveName="CTRL_expressions_teethDownD"
+CurveName="CTRL_expressions_teethDownU"
+CurveName="CTRL_expressions_teethFwdD"
+CurveName="CTRL_expressions_teethFwdU"
+CurveName="CTRL_expressions_teethLeftD"
+CurveName="CTRL_expressions_teethLeftU"
+CurveName="CTRL_expressions_teethRightD"
+CurveName="CTRL_expressions_teethRightU"
+CurveName="CTRL_expressions_teethUpD"
+CurveName="CTRL_expressions_teethUpU"
+CurveName="CTRL_expressions_tongueBendDown"
+CurveName="CTRL_expressions_tongueBendUp"
+CurveName="CTRL_expressions_tongueDown"
+CurveName="CTRL_expressions_tongueIn"
+CurveName="CTRL_expressions_tongueLeft"
+CurveName="CTRL_expressions_tongueNarrow"
+CurveName="CTRL_expressions_tongueOut"
+CurveName="CTRL_expressions_tonguePress"
+CurveName="CTRL_expressions_tongueRight"
+CurveName="CTRL_expressions_tongueRoll"
+CurveName="CTRL_expressions_tongueRollDown"
+CurveName="CTRL_expressions_tongueRollLeft"
+CurveName="CTRL_expressions_tongueRollRight"
+CurveName="CTRL_expressions_tongueRollUp"
+CurveName="CTRL_expressions_tongueThick"
+CurveName="CTRL_expressions_tongueThin"
+CurveName="CTRL_expressions_tongueTipDown"
+CurveName="CTRL_expressions_tongueTipLeft"
+CurveName="CTRL_expressions_tongueTipRight"
+CurveName="CTRL_expressions_tongueTipUp"
+CurveName="CTRL_expressions_tongueTwistLeft"
+CurveName="CTRL_expressions_tongueTwistRight"
+CurveName="CTRL_expressions_tongueUp"
+CurveName="CTRL_expressions_tongueWide"
+CurveName="CTRL_rigLogic_OffOn"
+CurveName="Default"
+CurveName="default "
+CurveName="EyeBlinkLeft"
+CurveName="EyeBlinkRight"
+CurveName="eyeLeft_lod0_mesh__eye_pupilNarrow_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="eyeLeft_lod0_mesh__eye_pupilWide_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="EyeLookDownLeft"
+CurveName="EyeLookDownRight"
+CurveName="EyeLookInLeft"
+CurveName="EyeLookInRight"
+CurveName="EyeLookOutLeft"
+CurveName="EyeLookOutRight"
+CurveName="EyeLookUpLeft"
+CurveName="EyeLookUpRight"
+CurveName="eyeRight_lod0_mesh__eye_pupilNarrow_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="eyeRight_lod0_mesh__eye_pupilWide_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="EyeSquintLeft"
+CurveName="EyeSquintRight"
+CurveName="EyeWideLeft"
+CurveName="EyeWideRight"
+CurveName="fwd "
+CurveName="fwd_sideLeft "
+CurveName="fwd_sideRight "
+CurveName="head_cm1_color_head_wm13_lips_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm13_lips_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm13_lips_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm13_lips_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_blink_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_blink_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_browsRaiseInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_browsRaiseInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_browsRaiseOuter_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_browsRaiseOuter_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_chinRaise_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_chinRaise_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_jawOpen",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_purse_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_purse_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_purse_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_purse_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_squintInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm1_color_head_wm1_squintInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_browsDown_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_browsDown_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_browsLateral_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_browsLateral_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_mouthStretch_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_mouthStretch_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_neckStretch_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_neckStretch_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_noseWrinkler_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm2_color_head_wm2_noseWrinkler_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm13_lips_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm13_lips_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm13_lips_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm13_lips_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseOuter_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseOuter_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseUpper_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_cheekRaiseUpper_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_smile_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_cm3_color_head_wm3_smile_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_lod0_mesh__Bdown_Blateral__browLower_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Bdown_Blateral__browLower_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__body_neckFemaleAverage_cor"
+CurveName="head_lod0_mesh__Braise_Eblink_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Eblink_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Eblink_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Eblink_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_ElookDown_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_ElookDown_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_ElookDown_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_ElookDown_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Ewiden_INL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Ewiden_INR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Ewiden_OUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Braise_Ewiden_OUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__BraiseIn_Bdown__browInnerRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__BraiseIn_Bdown__browInnerRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__BraiseIn_Bdown_Blateral_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__BraiseIn_Bdown_Blateral_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_down_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_down_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_lateral_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_lateral_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raiseIn_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raiseIn_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raiseOuter_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__brow_raiseOuter_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Cblow_MlipsBlow_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Cblow_MlipsBlow_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__cheek_blow_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__cheek_blow_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__cheek_blow_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__cheek_suck_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__cheek_suck_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ear_up_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ear_up_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_EsquintInner_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_EsquintInner_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_EsquintInner_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_EsquintInner_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EcheekRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EfaceScrunch_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EfaceScrunch_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElidPress_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElidPress_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_ElookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_Ewiden_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookDown_Ewiden_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookLeft_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookLeft_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookRight_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookRight_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__ElookUp_ElookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EsquintInner_Eblink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__EsquintInner_Eblink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_blink_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_blink_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_cheekRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_cheekRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_faceScrunch_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_faceScrunch_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookDown_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookDown_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookLeft_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookLeft_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookRight_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookRight_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lookUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lowerLidDown_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lowerLidDown_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lowerLidUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_lowerLidUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_relax_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_relax_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_squintInner_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_squintInner_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_upperLidUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_upperLidUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_widen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__eye_widen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_back_cor"
+CurveName="head_lod0_mesh__head_fwd_cor"
+CurveName="head_lod0_mesh__head_sideLeft_cor"
+CurveName="head_lod0_mesh__head_sideRight_cor"
+CurveName="head_lod0_mesh__head_tiltLeft_cor"
+CurveName="head_lod0_mesh__head_tiltLeft_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_tiltLeft_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_tiltLeft_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_tiltRight_cor"
+CurveName="head_lod0_mesh__head_tiltRight_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_tiltRight_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_tiltRight_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnDown_cor"
+CurveName="head_lod0_mesh__head_turnDown_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnDown_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnDown_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnLeft_cor"
+CurveName="head_lod0_mesh__head_turnLeft_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnLeft_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnLeft_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnRight_cor"
+CurveName="head_lod0_mesh__head_turnRight_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnRight_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnRight_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnUp_cor"
+CurveName="head_lod0_mesh__head_turnUp_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnUp_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__head_turnUp_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltLeft_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HtiltRight_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatExhale_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatExhale_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatExhale_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatInhale_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatInhale_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnDown_NKthroatInhale_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnLeft_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnRight_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_ML",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_MR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKstretch_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatExhale_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatExhale_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatExhale_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatInhale_D",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatInhale_M",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__HturnUp_NKthroatInhale_U",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_back",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_chinCompress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_chinCompress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_clench_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_clench_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_fwd",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_lowerChinRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_lowerChinRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_open",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_openExtreme_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__jaw_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_Jopen_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jleft_MlipsTogether_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_JupperChinRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_JupperChinRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__JlowerChinRaise_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_Jopen_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Jright_MlipsTogether_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerDepress_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_EcheekRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_EcheekRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mdimple_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mdimple_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards__cornerPullPucker_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards__cornerPullPucker_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards__cornerPullPucker_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards__cornerPullPucker_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards_Mfunnel__cornerPullOh_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards_Mfunnel__cornerPullOh_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards_Mfunnel__cornerPullOh_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_Mtowards_Mfunnel__cornerPullOh_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mpurse_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MsharpCornerPull_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MsharpCornerPull_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Mdimple_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Mdimple_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mstretch_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__McornerPull_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards__dimplePucker_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards__dimplePucker_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards__dimplePucker_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards__dimplePucker_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards_Mfunnel__dimpleOh_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards_Mfunnel__dimpleOh_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards_Mfunnel__dimpleOh_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_Mtowards_Mfunnel__dimpleOh_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mpurse_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MupperLipRaise_MlowerLipDepress__ee_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MupperLipRaise_MlowerLipDepress__ee_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mdimple_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MlowerLipDepress_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MlowerLipDepress_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MlowerLipDepress_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MlowerLipDepress_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_MlowerLipDepress__funnelWide_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_MlowerLipDepress__funnelWide_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_MlowerLipDepress__funnelWide_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_MlowerLipDepress__funnelWide_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mfunnel_MupperLipRaise_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Mpress_Jopen__mouthSuck_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Mpress_Jopen__mouthSuck_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Mpress_Jopen__mouthSuck_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlipsTogether_Mpress_Jopen__mouthSuck_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipBite_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipBite_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipBite_MupperLipBite_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipBite_MupperLipBite_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MlowerLipDepress_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerPull_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerPull_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerPull_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerRounder_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerRounder_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerRounder_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerRounder_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersDown_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersDown_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerSharpen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerSharpen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerSharpen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornerSharpen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersNarrow_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersNarrow_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersUp_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersUp_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersWide_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_cornersWide_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_dimple_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_dimple_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_dimple_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_down",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_funnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_funnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_funnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_funnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsBite_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsBite_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsBlow_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsBlow_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPull_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPull_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPull_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPull_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPurse_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPurse_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPurse_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPurse_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPush_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPush_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPush_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsPush_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_L_ph1",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_L_ph2",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_L_ph3",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_R_ph1",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_R_ph2",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsSticky_R_ph3",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThick_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThick_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThick_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThick_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThickInward_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThickInward_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThickInward_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThickInward_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThin_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThin_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThin_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThin_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThinInward_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThinInward_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThinInward_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsThinInward_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lipsTowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipBite_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipBite_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipDepress_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipDepress_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipDepress_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipRollIn_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipRollIn_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipRollOut_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipRollOut_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipShiftLeft",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipShiftRight",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipTowardsTeeth_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_lowerLipTowardsTeeth_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_press_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_press_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_press_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_press_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sharpCornerPull_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sharpCornerPull_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_DC",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_DINL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_DINR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_DOUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_DOUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_UC",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_UINL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_UINR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_UOUTL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_sticky_UOUTR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_stretch_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_stretch_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_stretch_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_up",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipBite_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipBite_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRaise_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRaise_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRaise_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRollIn_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRollIn_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRollOut_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipRollOut_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipShiftLeft",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipShiftRight",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipTowardsTeeth_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__mouth_upperLipTowardsTeeth_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpress_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpress_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpress_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpress_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards__pucker_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards__pucker_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards__pucker_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards__pucker_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Jopen__puckerJawOpen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Jopen__puckerJawOpen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Jopen__puckerJawOpen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Jopen__puckerJawOpen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel__oh_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel__oh_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel__oh_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel__oh_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Jopen__ohJawOpen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Jopen__ohJawOpen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Jopen__ohJawOpen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Jopen__ohJawOpen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Mtighten__ohTighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Mtighten__ohTighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Mtighten__ohTighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mfunnel_Mtighten__ohTighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mtighten__puckerTighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mtighten__puckerTighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mtighten__puckerTighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mpurse_Mtowards_Mtighten__puckerTighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MsharpCornerPull_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MsharpCornerPull_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_JlowerChinRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_JlowerChinRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mdimple_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mdimple_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mfunnel_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mfunnel_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mfunnel_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mfunnel_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards__mouthStretchPucker_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards__mouthStretchPucker_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards__mouthStretchPucker_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards__mouthStretchPucker_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards_Mfunnel__mouthStretchOh_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards_Mfunnel__mouthStretchOh_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards_Mfunnel__mouthStretchOh_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_Mtowards_Mfunnel__mouthStretchOh_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mpurse_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MstretchLipsClose_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MstretchLipsClose_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mtowards_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mtowards_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mtowards_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_Mtowards_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_MlowerLipDepress_Mdimple_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_MlowerLipDepress_Mdimple_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_MupperLipRaise_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSdepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSdepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mstretch_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Jopen_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Jopen_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Jopen_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Jopen_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__Mtowards_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipBite_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipBite_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_McornerDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_McornerDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_McornerDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_McornerDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_JopenExtreme_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_JopenExtreme_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_MlowerLipDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Mtighten_DL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Mtighten_DR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Mtighten_UL",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_Mtighten_UR",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_McornerDepress_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_McornerDepress_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_McornerDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_McornerDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__MupperLipRaise_NSwrinkle_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_digastricDown",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_digastricUp",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_mastoidContract_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_mastoidContract_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_stretch_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_stretch_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_swallow_ph1",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_swallow_ph2",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_swallow_ph3",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_swallow_ph4",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_throatDown",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_throatExhale",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_throatInhale",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__neck_throatUp",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Mstretch_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Mstretch_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Mstretch_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NKstretch_Mstretch_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nasolabialDeepener_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nasolabialDeepener_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsCompress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsCompress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsDepress_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsDepress_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsDilate_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_nostrilsDilate_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_wrinkle_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_wrinkle_left",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_wrinkle_right",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_wrinkleFull_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__nose_wrinkleFull_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NSwrinkle_Jopen_L",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__NSwrinkle_Jopen_R",MetaData=(Type=(bMorphtarget=True))
+CurveName="head_lod0_mesh__skull_unified"
+CurveName="head_tiltLeft_10 "
+CurveName="head_tiltRight_10 "
+CurveName="head_turnDown_15 "
+CurveName="head_turnLeft_25 "
+CurveName="head_turnRight_25 "
+CurveName="head_turnUp_25 "
+CurveName="head_wm1_normal_head_wm13_lips_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm13_lips_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm13_lips_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm13_lips_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_blink_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_blink_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_browsRaiseInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_browsRaiseInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_browsRaiseOuter_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_browsRaiseOuter_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_chinRaise_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_chinRaise_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_jawOpen",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_purse_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_purse_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_purse_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_purse_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_squintInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm1_normal_head_wm1_squintInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_browsDown_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_browsDown_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_browsLateral_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_browsLateral_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_mouthStretch_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_mouthStretch_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_neckStretch_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_neckStretch_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_noseWrinkler_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm2_normal_head_wm2_noseWrinkler_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm13_lips_DL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm13_lips_DR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm13_lips_UL",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm13_lips_UR",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseInner_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseInner_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseOuter_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseOuter_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseUpper_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_cheekRaiseUpper_R",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_smile_L",MetaData=(Type=(bMaterial=True))
+CurveName="head_wm3_normal_head_wm3_smile_R",MetaData=(Type=(bMaterial=True))
+CurveName="HeadControlSwitch"
+CurveName="HeadPitch"
+CurveName="HeadRoll"
+CurveName="HeadTranslationX"
+CurveName="HeadTranslationY"
+CurveName="HeadTranslationZ"
+CurveName="HeadYaw"
+CurveName="JawForward"
+CurveName="JawLeft"
+CurveName="JawOpen"
+CurveName="JawRight"
+CurveName="LeftEyePitch"
+CurveName="LeftEyeRoll"
+CurveName="LeftEyeYaw"
+CurveName="MouthClose"
+CurveName="MouthDimpleLeft"
+CurveName="MouthDimpleRight"
+CurveName="MouthFrownLeft"
+CurveName="MouthFrownRight"
+CurveName="MouthFunnel"
+CurveName="MouthLeft"
+CurveName="MouthLowerDownLeft"
+CurveName="MouthLowerDownRight"
+CurveName="MouthPressLeft"
+CurveName="MouthPressRight"
+CurveName="MouthPucker"
+CurveName="MouthRight"
+CurveName="MouthRollLower"
+CurveName="MouthRollUpper"
+CurveName="MouthShrugLower"
+CurveName="MouthShrugUpper"
+CurveName="MouthSmileLeft"
+CurveName="MouthSmileRight"
+CurveName="MouthStretchLeft"
+CurveName="MouthStretchRight"
+CurveName="MouthUpperUpLeft"
+CurveName="MouthUpperUpRight"
+CurveName="neck01_turnLeft_20 "
+CurveName="neck01_turnRight_20 "
+CurveName="neck01_turnUp_10"
+CurveName="neck02_turnLeft_20 "
+CurveName="neck02_turnRight_20 "
+CurveName="NoseSneerLeft"
+CurveName="NoseSneerRight"
+CurveName="Pose_0"
+CurveName="Pose_1"
+CurveName="Pose_2"
+CurveName="Pose_3"
+CurveName="Pose_4"
+CurveName="Pose_5"
+CurveName="Pose_6"
+CurveName="Pose_7"
+CurveName="Pose_8"
+CurveName="Pose_9"
+CurveName="Pose_10"
+CurveName="Pose_11"
+CurveName="Pose_12"
+CurveName="Pose_13"
+CurveName="Pose_14"
+CurveName="Pose_15"
+CurveName="Pose_16"
+CurveName="Pose_17"
+CurveName="pose_f_med_nrw_back "
+CurveName="pose_f_med_nrw_back_sideLeft "
+CurveName="pose_f_med_nrw_back_sideRight "
+CurveName="pose_f_med_nrw_default "
+CurveName="pose_f_med_nrw_fwd "
+CurveName="pose_f_med_nrw_fwd_sideLeft "
+CurveName="pose_f_med_nrw_fwd_sideRight "
+CurveName="pose_f_med_nrw_head_tiltLeft_10 "
+CurveName="pose_f_med_nrw_head_tiltRight_10 "
+CurveName="pose_f_med_nrw_head_turnDown_15 "
+CurveName="pose_f_med_nrw_head_turnLeft_25 "
+CurveName="pose_f_med_nrw_head_turnRight_25 "
+CurveName="pose_f_med_nrw_head_turnUp_25 "
+CurveName="pose_f_med_nrw_neck01_turnLeft_20 "
+CurveName="pose_f_med_nrw_neck01_turnRight_20 "
+CurveName="pose_f_med_nrw_neck01_turnUp_10"
+CurveName="pose_f_med_nrw_neck02_turnLeft_20 "
+CurveName="pose_f_med_nrw_neck02_turnRight_20 "
+CurveName="pose_f_med_nrw_sideLeft "
+CurveName="pose_f_med_nrw_sideRight "
+CurveName="pose_f_med_nrw_tiltLeft_40 "
+CurveName="pose_f_med_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_med_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_med_nrw_tiltRight_40 "
+CurveName="pose_f_med_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_med_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_med_nrw_turnDown_50 "
+CurveName="pose_f_med_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_med_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_med_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_med_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_f_med_nrw_turnLeft_65 "
+CurveName="pose_f_med_nrw_turnRight_65 "
+CurveName="pose_f_med_nrw_turnUp_55 "
+CurveName="pose_f_med_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_med_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_med_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_med_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_f_med_ovw_back "
+CurveName="pose_f_med_ovw_back_sideLeft "
+CurveName="pose_f_med_ovw_back_sideRight "
+CurveName="pose_f_med_ovw_default "
+CurveName="pose_f_med_ovw_fwd "
+CurveName="pose_f_med_ovw_fwd_sideLeft "
+CurveName="pose_f_med_ovw_fwd_sideRight "
+CurveName="pose_f_med_ovw_head_tiltLeft_10 "
+CurveName="pose_f_med_ovw_head_tiltRight_10 "
+CurveName="pose_f_med_ovw_head_turnDown_15 "
+CurveName="pose_f_med_ovw_head_turnLeft_25 "
+CurveName="pose_f_med_ovw_head_turnRight_25 "
+CurveName="pose_f_med_ovw_head_turnUp_25 "
+CurveName="pose_f_med_ovw_neck01_turnLeft_20 "
+CurveName="pose_f_med_ovw_neck01_turnRight_20 "
+CurveName="pose_f_med_ovw_neck01_turnUp_10"
+CurveName="pose_f_med_ovw_neck02_turnLeft_20 "
+CurveName="pose_f_med_ovw_neck02_turnRight_20 "
+CurveName="pose_f_med_ovw_sideLeft "
+CurveName="pose_f_med_ovw_sideRight "
+CurveName="pose_f_med_ovw_tiltLeft_40 "
+CurveName="pose_f_med_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_med_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_med_ovw_tiltRight_40 "
+CurveName="pose_f_med_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_med_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_med_ovw_turnDown_50 "
+CurveName="pose_f_med_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_med_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_med_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_med_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_f_med_ovw_turnLeft_65 "
+CurveName="pose_f_med_ovw_turnRight_65 "
+CurveName="pose_f_med_ovw_turnUp_55 "
+CurveName="pose_f_med_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_med_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_med_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_med_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_f_med_unw_back "
+CurveName="pose_f_med_unw_back_sideLeft "
+CurveName="pose_f_med_unw_back_sideRight "
+CurveName="pose_f_med_unw_default "
+CurveName="pose_f_med_unw_fwd "
+CurveName="pose_f_med_unw_fwd_sideLeft "
+CurveName="pose_f_med_unw_fwd_sideRight "
+CurveName="pose_f_med_unw_head_tiltLeft_10 "
+CurveName="pose_f_med_unw_head_tiltRight_10 "
+CurveName="pose_f_med_unw_head_turnDown_15 "
+CurveName="pose_f_med_unw_head_turnLeft_25 "
+CurveName="pose_f_med_unw_head_turnRight_25 "
+CurveName="pose_f_med_unw_head_turnUp_25 "
+CurveName="pose_f_med_unw_neck01_turnLeft_20 "
+CurveName="pose_f_med_unw_neck01_turnRight_20 "
+CurveName="pose_f_med_unw_neck01_turnUp_10"
+CurveName="pose_f_med_unw_neck02_turnLeft_20 "
+CurveName="pose_f_med_unw_neck02_turnRight_20 "
+CurveName="pose_f_med_unw_sideLeft "
+CurveName="pose_f_med_unw_sideRight "
+CurveName="pose_f_med_unw_tiltLeft_40 "
+CurveName="pose_f_med_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_med_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_med_unw_tiltRight_40 "
+CurveName="pose_f_med_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_med_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_med_unw_turnDown_50 "
+CurveName="pose_f_med_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_med_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_med_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_med_unw_turnDown_50_turnRight_65 "
+CurveName="pose_f_med_unw_turnLeft_65 "
+CurveName="pose_f_med_unw_turnRight_65 "
+CurveName="pose_f_med_unw_turnUp_55 "
+CurveName="pose_f_med_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_med_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_med_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_med_unw_turnUp_55_turnRight_65 "
+CurveName="pose_f_srt_nrw_back "
+CurveName="pose_f_srt_nrw_back_sideLeft "
+CurveName="pose_f_srt_nrw_back_sideRight "
+CurveName="pose_f_srt_nrw_default "
+CurveName="pose_f_srt_nrw_fwd "
+CurveName="pose_f_srt_nrw_fwd_sideLeft "
+CurveName="pose_f_srt_nrw_fwd_sideRight "
+CurveName="pose_f_srt_nrw_head_tiltLeft_10 "
+CurveName="pose_f_srt_nrw_head_tiltRight_10 "
+CurveName="pose_f_srt_nrw_head_turnDown_15 "
+CurveName="pose_f_srt_nrw_head_turnLeft_25 "
+CurveName="pose_f_srt_nrw_head_turnRight_25 "
+CurveName="pose_f_srt_nrw_head_turnUp_25 "
+CurveName="pose_f_srt_nrw_neck01_turnLeft_20 "
+CurveName="pose_f_srt_nrw_neck01_turnRight_20 "
+CurveName="pose_f_srt_nrw_neck01_turnUp_10"
+CurveName="pose_f_srt_nrw_neck02_turnLeft_20 "
+CurveName="pose_f_srt_nrw_neck02_turnRight_20 "
+CurveName="pose_f_srt_nrw_sideLeft "
+CurveName="pose_f_srt_nrw_sideRight "
+CurveName="pose_f_srt_nrw_tiltLeft_40 "
+CurveName="pose_f_srt_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_srt_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_srt_nrw_tiltRight_40 "
+CurveName="pose_f_srt_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_srt_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_srt_nrw_turnDown_50 "
+CurveName="pose_f_srt_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_srt_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_srt_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_srt_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_f_srt_nrw_turnLeft_65 "
+CurveName="pose_f_srt_nrw_turnRight_65 "
+CurveName="pose_f_srt_nrw_turnUp_55 "
+CurveName="pose_f_srt_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_srt_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_srt_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_srt_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_f_srt_ovw_back "
+CurveName="pose_f_srt_ovw_back_sideLeft "
+CurveName="pose_f_srt_ovw_back_sideRight "
+CurveName="pose_f_srt_ovw_default "
+CurveName="pose_f_srt_ovw_fwd "
+CurveName="pose_f_srt_ovw_fwd_sideLeft "
+CurveName="pose_f_srt_ovw_fwd_sideRight "
+CurveName="pose_f_srt_ovw_head_tiltLeft_10 "
+CurveName="pose_f_srt_ovw_head_tiltRight_10 "
+CurveName="pose_f_srt_ovw_head_turnDown_15 "
+CurveName="pose_f_srt_ovw_head_turnLeft_25 "
+CurveName="pose_f_srt_ovw_head_turnRight_25 "
+CurveName="pose_f_srt_ovw_head_turnUp_25 "
+CurveName="pose_f_srt_ovw_neck01_turnLeft_20 "
+CurveName="pose_f_srt_ovw_neck01_turnRight_20 "
+CurveName="pose_f_srt_ovw_neck01_turnUp_10"
+CurveName="pose_f_srt_ovw_neck02_turnLeft_20 "
+CurveName="pose_f_srt_ovw_neck02_turnRight_20 "
+CurveName="pose_f_srt_ovw_sideLeft "
+CurveName="pose_f_srt_ovw_sideRight "
+CurveName="pose_f_srt_ovw_tiltLeft_40 "
+CurveName="pose_f_srt_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_srt_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_srt_ovw_tiltRight_40 "
+CurveName="pose_f_srt_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_srt_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_srt_ovw_turnDown_50 "
+CurveName="pose_f_srt_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_srt_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_srt_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_srt_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_f_srt_ovw_turnLeft_65 "
+CurveName="pose_f_srt_ovw_turnRight_65 "
+CurveName="pose_f_srt_ovw_turnUp_55 "
+CurveName="pose_f_srt_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_srt_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_srt_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_srt_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_f_srt_unw_back "
+CurveName="pose_f_srt_unw_back_sideLeft "
+CurveName="pose_f_srt_unw_back_sideRight "
+CurveName="pose_f_srt_unw_default "
+CurveName="pose_f_srt_unw_fwd "
+CurveName="pose_f_srt_unw_fwd_sideLeft "
+CurveName="pose_f_srt_unw_fwd_sideRight "
+CurveName="pose_f_srt_unw_head_tiltLeft_10 "
+CurveName="pose_f_srt_unw_head_tiltRight_10 "
+CurveName="pose_f_srt_unw_head_turnDown_15 "
+CurveName="pose_f_srt_unw_head_turnLeft_25 "
+CurveName="pose_f_srt_unw_head_turnRight_25 "
+CurveName="pose_f_srt_unw_head_turnUp_25 "
+CurveName="pose_f_srt_unw_neck01_turnLeft_20 "
+CurveName="pose_f_srt_unw_neck01_turnRight_20 "
+CurveName="pose_f_srt_unw_neck01_turnUp_10"
+CurveName="pose_f_srt_unw_neck02_turnLeft_20 "
+CurveName="pose_f_srt_unw_neck02_turnRight_20 "
+CurveName="pose_f_srt_unw_sideLeft "
+CurveName="pose_f_srt_unw_sideRight "
+CurveName="pose_f_srt_unw_tiltLeft_40 "
+CurveName="pose_f_srt_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_srt_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_srt_unw_tiltRight_40 "
+CurveName="pose_f_srt_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_srt_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_srt_unw_turnDown_50 "
+CurveName="pose_f_srt_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_srt_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_srt_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_srt_unw_turnDown_50_turnRight_65 "
+CurveName="pose_f_srt_unw_turnLeft_65 "
+CurveName="pose_f_srt_unw_turnRight_65 "
+CurveName="pose_f_srt_unw_turnUp_55 "
+CurveName="pose_f_srt_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_srt_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_srt_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_srt_unw_turnUp_55_turnRight_65 "
+CurveName="pose_f_tal_nrw_back "
+CurveName="pose_f_tal_nrw_back_sideLeft "
+CurveName="pose_f_tal_nrw_back_sideRight "
+CurveName="pose_f_tal_nrw_default "
+CurveName="pose_f_tal_nrw_fwd "
+CurveName="pose_f_tal_nrw_fwd_sideLeft "
+CurveName="pose_f_tal_nrw_fwd_sideRight "
+CurveName="pose_f_tal_nrw_head_tiltLeft_10 "
+CurveName="pose_f_tal_nrw_head_tiltRight_10 "
+CurveName="pose_f_tal_nrw_head_turnDown_15 "
+CurveName="pose_f_tal_nrw_head_turnLeft_25 "
+CurveName="pose_f_tal_nrw_head_turnRight_25 "
+CurveName="pose_f_tal_nrw_head_turnUp_25 "
+CurveName="pose_f_tal_nrw_neck01_turnLeft_20 "
+CurveName="pose_f_tal_nrw_neck01_turnRight_20 "
+CurveName="pose_f_tal_nrw_neck01_turnUp_10"
+CurveName="pose_f_tal_nrw_neck02_turnLeft_20 "
+CurveName="pose_f_tal_nrw_neck02_turnRight_20 "
+CurveName="pose_f_tal_nrw_sideLeft "
+CurveName="pose_f_tal_nrw_sideRight "
+CurveName="pose_f_tal_nrw_tiltLeft_40 "
+CurveName="pose_f_tal_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_tal_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_tal_nrw_tiltRight_40 "
+CurveName="pose_f_tal_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_tal_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_tal_nrw_turnDown_50 "
+CurveName="pose_f_tal_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_tal_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_tal_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_tal_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_f_tal_nrw_turnLeft_65 "
+CurveName="pose_f_tal_nrw_turnRight_65 "
+CurveName="pose_f_tal_nrw_turnUp_55 "
+CurveName="pose_f_tal_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_tal_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_tal_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_tal_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_f_tal_ovw_back "
+CurveName="pose_f_tal_ovw_back_sideLeft "
+CurveName="pose_f_tal_ovw_back_sideRight "
+CurveName="pose_f_tal_ovw_default "
+CurveName="pose_f_tal_ovw_fwd "
+CurveName="pose_f_tal_ovw_fwd_sideLeft "
+CurveName="pose_f_tal_ovw_fwd_sideRight "
+CurveName="pose_f_tal_ovw_head_tiltLeft_10 "
+CurveName="pose_f_tal_ovw_head_tiltRight_10 "
+CurveName="pose_f_tal_ovw_head_turnDown_15 "
+CurveName="pose_f_tal_ovw_head_turnLeft_25 "
+CurveName="pose_f_tal_ovw_head_turnRight_25 "
+CurveName="pose_f_tal_ovw_head_turnUp_25 "
+CurveName="pose_f_tal_ovw_neck01_turnLeft_20 "
+CurveName="pose_f_tal_ovw_neck01_turnRight_20 "
+CurveName="pose_f_tal_ovw_neck01_turnUp_10"
+CurveName="pose_f_tal_ovw_neck02_turnLeft_20 "
+CurveName="pose_f_tal_ovw_neck02_turnRight_20 "
+CurveName="pose_f_tal_ovw_sideLeft "
+CurveName="pose_f_tal_ovw_sideRight "
+CurveName="pose_f_tal_ovw_tiltLeft_40 "
+CurveName="pose_f_tal_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_tal_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_tal_ovw_tiltRight_40 "
+CurveName="pose_f_tal_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_tal_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_tal_ovw_turnDown_50 "
+CurveName="pose_f_tal_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_tal_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_tal_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_tal_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_f_tal_ovw_turnLeft_65 "
+CurveName="pose_f_tal_ovw_turnRight_65 "
+CurveName="pose_f_tal_ovw_turnUp_55 "
+CurveName="pose_f_tal_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_tal_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_tal_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_tal_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_f_tal_unw_back "
+CurveName="pose_f_tal_unw_back_sideLeft "
+CurveName="pose_f_tal_unw_back_sideRight "
+CurveName="pose_f_tal_unw_default "
+CurveName="pose_f_tal_unw_fwd "
+CurveName="pose_f_tal_unw_fwd_sideLeft "
+CurveName="pose_f_tal_unw_fwd_sideRight "
+CurveName="pose_f_tal_unw_head_tiltLeft_10 "
+CurveName="pose_f_tal_unw_head_tiltRight_10 "
+CurveName="pose_f_tal_unw_head_turnDown_15 "
+CurveName="pose_f_tal_unw_head_turnLeft_25 "
+CurveName="pose_f_tal_unw_head_turnRight_25 "
+CurveName="pose_f_tal_unw_head_turnUp_25 "
+CurveName="pose_f_tal_unw_neck01_turnLeft_20 "
+CurveName="pose_f_tal_unw_neck01_turnRight_20 "
+CurveName="pose_f_tal_unw_neck01_turnUp_10"
+CurveName="pose_f_tal_unw_neck02_turnLeft_20 "
+CurveName="pose_f_tal_unw_neck02_turnRight_20 "
+CurveName="pose_f_tal_unw_sideLeft "
+CurveName="pose_f_tal_unw_sideRight "
+CurveName="pose_f_tal_unw_tiltLeft_40 "
+CurveName="pose_f_tal_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_f_tal_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_f_tal_unw_tiltRight_40 "
+CurveName="pose_f_tal_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_f_tal_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_f_tal_unw_turnDown_50 "
+CurveName="pose_f_tal_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_f_tal_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_f_tal_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_f_tal_unw_turnDown_50_turnRight_65 "
+CurveName="pose_f_tal_unw_turnLeft_65 "
+CurveName="pose_f_tal_unw_turnRight_65 "
+CurveName="pose_f_tal_unw_turnUp_55 "
+CurveName="pose_f_tal_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_f_tal_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_f_tal_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_f_tal_unw_turnUp_55_turnRight_65 "
+CurveName="pose_m_med_nrw_back "
+CurveName="pose_m_med_nrw_back_sideLeft "
+CurveName="pose_m_med_nrw_back_sideRight "
+CurveName="pose_m_med_nrw_default "
+CurveName="pose_m_med_nrw_fwd "
+CurveName="pose_m_med_nrw_fwd_sideLeft "
+CurveName="pose_m_med_nrw_fwd_sideRight "
+CurveName="pose_m_med_nrw_head_tiltLeft_10 "
+CurveName="pose_m_med_nrw_head_tiltRight_10 "
+CurveName="pose_m_med_nrw_head_turnDown_15 "
+CurveName="pose_m_med_nrw_head_turnLeft_25 "
+CurveName="pose_m_med_nrw_head_turnRight_25 "
+CurveName="pose_m_med_nrw_head_turnUp_25 "
+CurveName="pose_m_med_nrw_neck01_turnLeft_20 "
+CurveName="pose_m_med_nrw_neck01_turnRight_20 "
+CurveName="pose_m_med_nrw_neck01_turnUp_10"
+CurveName="pose_m_med_nrw_neck02_turnLeft_20 "
+CurveName="pose_m_med_nrw_neck02_turnRight_20 "
+CurveName="pose_m_med_nrw_sideLeft "
+CurveName="pose_m_med_nrw_sideRight "
+CurveName="pose_m_med_nrw_tiltLeft_40 "
+CurveName="pose_m_med_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_med_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_med_nrw_tiltRight_40 "
+CurveName="pose_m_med_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_med_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_med_nrw_turnDown_50 "
+CurveName="pose_m_med_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_med_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_med_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_med_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_m_med_nrw_turnLeft_65 "
+CurveName="pose_m_med_nrw_turnRight_65 "
+CurveName="pose_m_med_nrw_turnUp_55 "
+CurveName="pose_m_med_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_med_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_med_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_med_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_m_med_ovw_back "
+CurveName="pose_m_med_ovw_back_sideLeft "
+CurveName="pose_m_med_ovw_back_sideRight "
+CurveName="pose_m_med_ovw_default "
+CurveName="pose_m_med_ovw_fwd "
+CurveName="pose_m_med_ovw_fwd_sideLeft "
+CurveName="pose_m_med_ovw_fwd_sideRight "
+CurveName="pose_m_med_ovw_head_tiltLeft_10 "
+CurveName="pose_m_med_ovw_head_tiltRight_10 "
+CurveName="pose_m_med_ovw_head_turnDown_15 "
+CurveName="pose_m_med_ovw_head_turnLeft_25 "
+CurveName="pose_m_med_ovw_head_turnRight_25 "
+CurveName="pose_m_med_ovw_head_turnUp_25 "
+CurveName="pose_m_med_ovw_neck01_turnLeft_20 "
+CurveName="pose_m_med_ovw_neck01_turnRight_20 "
+CurveName="pose_m_med_ovw_neck01_turnUp_10"
+CurveName="pose_m_med_ovw_neck02_turnLeft_20 "
+CurveName="pose_m_med_ovw_neck02_turnRight_20 "
+CurveName="pose_m_med_ovw_sideLeft "
+CurveName="pose_m_med_ovw_sideRight "
+CurveName="pose_m_med_ovw_tiltLeft_40 "
+CurveName="pose_m_med_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_med_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_med_ovw_tiltRight_40 "
+CurveName="pose_m_med_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_med_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_med_ovw_turnDown_50 "
+CurveName="pose_m_med_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_med_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_med_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_med_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_m_med_ovw_turnLeft_65 "
+CurveName="pose_m_med_ovw_turnRight_65 "
+CurveName="pose_m_med_ovw_turnUp_55 "
+CurveName="pose_m_med_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_med_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_med_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_med_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_m_med_unw_back "
+CurveName="pose_m_med_unw_back_sideLeft "
+CurveName="pose_m_med_unw_back_sideRight "
+CurveName="pose_m_med_unw_default "
+CurveName="pose_m_med_unw_fwd "
+CurveName="pose_m_med_unw_fwd_sideLeft "
+CurveName="pose_m_med_unw_fwd_sideRight "
+CurveName="pose_m_med_unw_head_tiltLeft_10 "
+CurveName="pose_m_med_unw_head_tiltRight_10 "
+CurveName="pose_m_med_unw_head_turnDown_15 "
+CurveName="pose_m_med_unw_head_turnLeft_25 "
+CurveName="pose_m_med_unw_head_turnRight_25 "
+CurveName="pose_m_med_unw_head_turnUp_25 "
+CurveName="pose_m_med_unw_neck01_turnLeft_20 "
+CurveName="pose_m_med_unw_neck01_turnRight_20 "
+CurveName="pose_m_med_unw_neck01_turnUp_10"
+CurveName="pose_m_med_unw_neck02_turnLeft_20 "
+CurveName="pose_m_med_unw_neck02_turnRight_20 "
+CurveName="pose_m_med_unw_sideLeft "
+CurveName="pose_m_med_unw_sideRight "
+CurveName="pose_m_med_unw_tiltLeft_40 "
+CurveName="pose_m_med_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_med_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_med_unw_tiltRight_40 "
+CurveName="pose_m_med_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_med_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_med_unw_turnDown_50 "
+CurveName="pose_m_med_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_med_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_med_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_med_unw_turnDown_50_turnRight_65 "
+CurveName="pose_m_med_unw_turnLeft_65 "
+CurveName="pose_m_med_unw_turnRight_65 "
+CurveName="pose_m_med_unw_turnUp_55 "
+CurveName="pose_m_med_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_med_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_med_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_med_unw_turnUp_55_turnRight_65 "
+CurveName="pose_m_srt_nrw_back "
+CurveName="pose_m_srt_nrw_back_sideLeft "
+CurveName="pose_m_srt_nrw_back_sideRight "
+CurveName="pose_m_srt_nrw_default "
+CurveName="pose_m_srt_nrw_fwd "
+CurveName="pose_m_srt_nrw_fwd_sideLeft "
+CurveName="pose_m_srt_nrw_fwd_sideRight "
+CurveName="pose_m_srt_nrw_head_tiltLeft_10 "
+CurveName="pose_m_srt_nrw_head_tiltRight_10 "
+CurveName="pose_m_srt_nrw_head_turnDown_15 "
+CurveName="pose_m_srt_nrw_head_turnLeft_25 "
+CurveName="pose_m_srt_nrw_head_turnRight_25 "
+CurveName="pose_m_srt_nrw_head_turnUp_25 "
+CurveName="pose_m_srt_nrw_neck01_turnLeft_20 "
+CurveName="pose_m_srt_nrw_neck01_turnRight_20 "
+CurveName="pose_m_srt_nrw_neck01_turnUp_10"
+CurveName="pose_m_srt_nrw_neck02_turnLeft_20 "
+CurveName="pose_m_srt_nrw_neck02_turnRight_20 "
+CurveName="pose_m_srt_nrw_sideLeft "
+CurveName="pose_m_srt_nrw_sideRight "
+CurveName="pose_m_srt_nrw_tiltLeft_40 "
+CurveName="pose_m_srt_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_srt_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_srt_nrw_tiltRight_40 "
+CurveName="pose_m_srt_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_srt_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_srt_nrw_turnDown_50 "
+CurveName="pose_m_srt_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_srt_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_srt_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_srt_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_m_srt_nrw_turnLeft_65 "
+CurveName="pose_m_srt_nrw_turnRight_65 "
+CurveName="pose_m_srt_nrw_turnUp_55 "
+CurveName="pose_m_srt_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_srt_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_srt_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_srt_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_m_srt_ovw_back "
+CurveName="pose_m_srt_ovw_back_sideLeft "
+CurveName="pose_m_srt_ovw_back_sideRight "
+CurveName="pose_m_srt_ovw_default "
+CurveName="pose_m_srt_ovw_fwd "
+CurveName="pose_m_srt_ovw_fwd_sideLeft "
+CurveName="pose_m_srt_ovw_fwd_sideRight "
+CurveName="pose_m_srt_ovw_head_tiltLeft_10 "
+CurveName="pose_m_srt_ovw_head_tiltRight_10 "
+CurveName="pose_m_srt_ovw_head_turnDown_15 "
+CurveName="pose_m_srt_ovw_head_turnLeft_25 "
+CurveName="pose_m_srt_ovw_head_turnRight_25 "
+CurveName="pose_m_srt_ovw_head_turnUp_25 "
+CurveName="pose_m_srt_ovw_neck01_turnLeft_20 "
+CurveName="pose_m_srt_ovw_neck01_turnRight_20 "
+CurveName="pose_m_srt_ovw_neck01_turnUp_10"
+CurveName="pose_m_srt_ovw_neck02_turnLeft_20 "
+CurveName="pose_m_srt_ovw_neck02_turnRight_20 "
+CurveName="pose_m_srt_ovw_sideLeft "
+CurveName="pose_m_srt_ovw_sideRight "
+CurveName="pose_m_srt_ovw_tiltLeft_40 "
+CurveName="pose_m_srt_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_srt_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_srt_ovw_tiltRight_40 "
+CurveName="pose_m_srt_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_srt_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_srt_ovw_turnDown_50 "
+CurveName="pose_m_srt_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_srt_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_srt_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_srt_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_m_srt_ovw_turnLeft_65 "
+CurveName="pose_m_srt_ovw_turnRight_65 "
+CurveName="pose_m_srt_ovw_turnUp_55 "
+CurveName="pose_m_srt_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_srt_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_srt_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_srt_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_m_srt_unw_back "
+CurveName="pose_m_srt_unw_back_sideLeft "
+CurveName="pose_m_srt_unw_back_sideRight "
+CurveName="pose_m_srt_unw_default "
+CurveName="pose_m_srt_unw_fwd "
+CurveName="pose_m_srt_unw_fwd_sideLeft "
+CurveName="pose_m_srt_unw_fwd_sideRight "
+CurveName="pose_m_srt_unw_head_tiltLeft_10 "
+CurveName="pose_m_srt_unw_head_tiltRight_10 "
+CurveName="pose_m_srt_unw_head_turnDown_15 "
+CurveName="pose_m_srt_unw_head_turnLeft_25 "
+CurveName="pose_m_srt_unw_head_turnRight_25 "
+CurveName="pose_m_srt_unw_head_turnUp_25 "
+CurveName="pose_m_srt_unw_neck01_turnLeft_20 "
+CurveName="pose_m_srt_unw_neck01_turnRight_20 "
+CurveName="pose_m_srt_unw_neck01_turnUp_10"
+CurveName="pose_m_srt_unw_neck02_turnLeft_20 "
+CurveName="pose_m_srt_unw_neck02_turnRight_20 "
+CurveName="pose_m_srt_unw_sideLeft "
+CurveName="pose_m_srt_unw_sideRight "
+CurveName="pose_m_srt_unw_tiltLeft_40 "
+CurveName="pose_m_srt_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_srt_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_srt_unw_tiltRight_40 "
+CurveName="pose_m_srt_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_srt_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_srt_unw_turnDown_50 "
+CurveName="pose_m_srt_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_srt_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_srt_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_srt_unw_turnDown_50_turnRight_65 "
+CurveName="pose_m_srt_unw_turnLeft_65 "
+CurveName="pose_m_srt_unw_turnRight_65 "
+CurveName="pose_m_srt_unw_turnUp_55 "
+CurveName="pose_m_srt_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_srt_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_srt_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_srt_unw_turnUp_55_turnRight_65 "
+CurveName="pose_m_tal_nrw_back "
+CurveName="pose_m_tal_nrw_back_sideLeft "
+CurveName="pose_m_tal_nrw_back_sideRight "
+CurveName="pose_m_tal_nrw_default "
+CurveName="pose_m_tal_nrw_fwd "
+CurveName="pose_m_tal_nrw_fwd_sideLeft "
+CurveName="pose_m_tal_nrw_fwd_sideRight "
+CurveName="pose_m_tal_nrw_head_tiltLeft_10 "
+CurveName="pose_m_tal_nrw_head_tiltRight_10 "
+CurveName="pose_m_tal_nrw_head_turnDown_15 "
+CurveName="pose_m_tal_nrw_head_turnLeft_25 "
+CurveName="pose_m_tal_nrw_head_turnRight_25 "
+CurveName="pose_m_tal_nrw_head_turnUp_25 "
+CurveName="pose_m_tal_nrw_neck01_turnLeft_20 "
+CurveName="pose_m_tal_nrw_neck01_turnRight_20 "
+CurveName="pose_m_tal_nrw_neck01_turnUp_10"
+CurveName="pose_m_tal_nrw_neck02_turnLeft_20 "
+CurveName="pose_m_tal_nrw_neck02_turnRight_20 "
+CurveName="pose_m_tal_nrw_sideLeft "
+CurveName="pose_m_tal_nrw_sideRight "
+CurveName="pose_m_tal_nrw_tiltLeft_40 "
+CurveName="pose_m_tal_nrw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_tal_nrw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_tal_nrw_tiltRight_40 "
+CurveName="pose_m_tal_nrw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_tal_nrw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_tal_nrw_turnDown_50 "
+CurveName="pose_m_tal_nrw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_tal_nrw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_tal_nrw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_tal_nrw_turnDown_50_turnRight_65 "
+CurveName="pose_m_tal_nrw_turnLeft_65 "
+CurveName="pose_m_tal_nrw_turnRight_65 "
+CurveName="pose_m_tal_nrw_turnUp_55 "
+CurveName="pose_m_tal_nrw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_tal_nrw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_tal_nrw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_tal_nrw_turnUp_55_turnRight_65 "
+CurveName="pose_m_tal_ovw_back "
+CurveName="pose_m_tal_ovw_back_sideLeft "
+CurveName="pose_m_tal_ovw_back_sideRight "
+CurveName="pose_m_tal_ovw_default "
+CurveName="pose_m_tal_ovw_fwd "
+CurveName="pose_m_tal_ovw_fwd_sideLeft "
+CurveName="pose_m_tal_ovw_fwd_sideRight "
+CurveName="pose_m_tal_ovw_head_tiltLeft_10 "
+CurveName="pose_m_tal_ovw_head_tiltRight_10 "
+CurveName="pose_m_tal_ovw_head_turnDown_15 "
+CurveName="pose_m_tal_ovw_head_turnLeft_25 "
+CurveName="pose_m_tal_ovw_head_turnRight_25 "
+CurveName="pose_m_tal_ovw_head_turnUp_25 "
+CurveName="pose_m_tal_ovw_neck01_turnLeft_20 "
+CurveName="pose_m_tal_ovw_neck01_turnRight_20 "
+CurveName="pose_m_tal_ovw_neck01_turnUp_10"
+CurveName="pose_m_tal_ovw_neck02_turnLeft_20 "
+CurveName="pose_m_tal_ovw_neck02_turnRight_20 "
+CurveName="pose_m_tal_ovw_sideLeft "
+CurveName="pose_m_tal_ovw_sideRight "
+CurveName="pose_m_tal_ovw_tiltLeft_40 "
+CurveName="pose_m_tal_ovw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_tal_ovw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_tal_ovw_tiltRight_40 "
+CurveName="pose_m_tal_ovw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_tal_ovw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_tal_ovw_turnDown_50 "
+CurveName="pose_m_tal_ovw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_tal_ovw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_tal_ovw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_tal_ovw_turnDown_50_turnRight_65 "
+CurveName="pose_m_tal_ovw_turnLeft_65 "
+CurveName="pose_m_tal_ovw_turnRight_65 "
+CurveName="pose_m_tal_ovw_turnUp_55 "
+CurveName="pose_m_tal_ovw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_tal_ovw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_tal_ovw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_tal_ovw_turnUp_55_turnRight_65 "
+CurveName="pose_m_tal_unw_back "
+CurveName="pose_m_tal_unw_back_sideLeft "
+CurveName="pose_m_tal_unw_back_sideRight "
+CurveName="pose_m_tal_unw_default "
+CurveName="pose_m_tal_unw_fwd "
+CurveName="pose_m_tal_unw_fwd_sideLeft "
+CurveName="pose_m_tal_unw_fwd_sideRight "
+CurveName="pose_m_tal_unw_head_tiltLeft_10 "
+CurveName="pose_m_tal_unw_head_tiltRight_10 "
+CurveName="pose_m_tal_unw_head_turnDown_15 "
+CurveName="pose_m_tal_unw_head_turnLeft_25 "
+CurveName="pose_m_tal_unw_head_turnRight_25 "
+CurveName="pose_m_tal_unw_head_turnUp_25 "
+CurveName="pose_m_tal_unw_neck01_turnLeft_20 "
+CurveName="pose_m_tal_unw_neck01_turnRight_20 "
+CurveName="pose_m_tal_unw_neck01_turnUp_10"
+CurveName="pose_m_tal_unw_neck02_turnLeft_20 "
+CurveName="pose_m_tal_unw_neck02_turnRight_20 "
+CurveName="pose_m_tal_unw_sideLeft "
+CurveName="pose_m_tal_unw_sideRight "
+CurveName="pose_m_tal_unw_tiltLeft_40 "
+CurveName="pose_m_tal_unw_tiltLeft_40_turnLeft_65 "
+CurveName="pose_m_tal_unw_tiltLeft_40_turnRight_65 "
+CurveName="pose_m_tal_unw_tiltRight_40 "
+CurveName="pose_m_tal_unw_tiltRight_40_turnLeft_65 "
+CurveName="pose_m_tal_unw_tiltRight_40_turnRight_65 "
+CurveName="pose_m_tal_unw_turnDown_50 "
+CurveName="pose_m_tal_unw_turnDown_50_tiltLeft_40 "
+CurveName="pose_m_tal_unw_turnDown_50_tiltRight_40 "
+CurveName="pose_m_tal_unw_turnDown_50_turnLeft_65 "
+CurveName="pose_m_tal_unw_turnDown_50_turnRight_65 "
+CurveName="pose_m_tal_unw_turnLeft_65 "
+CurveName="pose_m_tal_unw_turnRight_65 "
+CurveName="pose_m_tal_unw_turnUp_55 "
+CurveName="pose_m_tal_unw_turnUp_55_tiltLeft_40 "
+CurveName="pose_m_tal_unw_turnUp_55_tiltRight_40 "
+CurveName="pose_m_tal_unw_turnUp_55_turnLeft_65 "
+CurveName="pose_m_tal_unw_turnUp_55_turnRight_65 "
+CurveName="RightEyePitch"
+CurveName="RightEyeRoll"
+CurveName="RightEyeYaw"
+CurveName="sideLeft "
+CurveName="sideRight "
+CurveName="teeth_lod0_mesh__tongue_bendDown_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_bendDownTwistLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_bendDownTwistRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_bendUp_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_bendUpTwistLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_bendUpTwistRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_dartingOut_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_depression_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_down_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_elevation_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_in_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_lateralLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_lateralRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_left_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_narrow"
+CurveName="teeth_lod0_mesh__tongue_narrow_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_narrowLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_narrowRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_out_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outBendDown_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outBendUp_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outRoll_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_outUp_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_press_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_protrusion_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_retraction_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_right_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_roll_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_thick_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_thin_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_tipDown_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_tipLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_tipRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_tipUp_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_twistLeft_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_twistRight_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_up_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_upBendDown_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_upBendUp_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="teeth_lod0_mesh__tongue_wide"
+CurveName="teeth_lod0_mesh__tongue_wide_cor",MetaData=(Type=(bMorphtarget=True))
+CurveName="tiltLeft_40 "
+CurveName="tiltLeft_40_turnLeft_65 "
+CurveName="tiltLeft_40_turnRight_65 "
+CurveName="tiltRight_40 "
+CurveName="tiltRight_40_turnLeft_65 "
+CurveName="tiltRight_40_turnRight_65 "
+CurveName="TongueOut"
+CurveName="turnDown_50 "
+CurveName="turnDown_50_tiltLeft_40 "
+CurveName="turnDown_50_tiltRight_40 "
+CurveName="turnDown_50_turnLeft_65 "
+CurveName="turnDown_50_turnRight_65 "
+CurveName="turnLeft_65 "
+CurveName="turnRight_65 "
+CurveName="turnUp_55 "
+CurveName="turnUp_55_tiltLeft_40 "
+CurveName="turnUp_55_tiltRight_40 "
+CurveName="turnUp_55_turnLeft_65 "
+CurveName="turnUp_55_turnRight_65 "

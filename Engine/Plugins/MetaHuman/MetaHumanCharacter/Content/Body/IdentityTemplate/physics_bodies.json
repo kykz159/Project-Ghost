@@ -1,0 +1,178 @@
+{
+	"physics_body_volumes": [
+	{
+		"joint_name": "pelvis",
+		"vertex_mask": "pelvis"
+	},
+	{
+		"joint_name": "spine_02",
+		"vertex_mask": "spine_02",
+		"extent_joints": [
+			{
+				"extent_joint": "spine_03", 
+				"scale": 1.5
+			},
+		]
+	},
+	{
+		"joint_name": "spine_04",
+		"vertex_mask": "spine_04-1",
+	},
+	{
+		"joint_name": "spine_04",
+		"vertex_mask": "spine_04-2",
+		"extent_joints": [
+			{
+				"extent_joint": "spine_01", 
+				"scale": 1.0
+			},
+			{
+				"extent_joint": "clavicle_l", 
+				"scale": 1.0
+			},
+			{
+				"extent_joint": "clavicle_r", 
+				"scale": 1.0
+			}
+		]
+	},
+	{
+		"joint_name": "neck_01",
+		"vertex_mask": "neck_01",
+		"extent_joints": [
+			{
+				"extent_joint": "head", 
+				"scale": 1.0
+			},
+			{
+				"extent_joint": "clavicle_l", 
+				"scale": 0.5
+			},
+			{
+				"extent_joint": "clavicle_r", 
+				"scale": 0.5
+			}
+		]
+	},
+	{
+		"joint_name": "clavicle_r",
+		"vertex_mask": "clavicle_r"
+		"extent_joints": [
+			{
+				"extent_joint": "neck_01", 
+				"scale": 1.05
+			},
+			{
+				"extent_joint": "clavicle_l", 
+				"scale": 2 
+			},
+			{
+				"extent_joint": "upperarm_r", 
+				"scale": 1.3
+			}
+		]
+	},
+	{
+		"joint_name": "clavicle_l",
+		"vertex_mask": "clavicle_l"
+		"extent_joints": [
+			{
+				"extent_joint": "neck_01", 
+				"scale": 1.05
+			},
+			{
+				"extent_joint": "clavicle_r", 
+				"scale": 2 
+			},
+			{
+				"extent_joint": "upperarm_l", 
+				"scale": 1.3
+			}
+		]
+	},
+	{
+		"joint_name": "upperarm_r",
+		"vertex_mask": "upperarm_r"
+		"extent_joints": [
+			{
+				"extent_joint": "lowerarm_r", 
+				"scale": -0.1
+			},
+			{
+				"extent_joint": "lowerarm_r", 
+				"scale": 1.1
+			}
+		]
+	},
+	{
+		"joint_name": "upperarm_l",
+		"vertex_mask": "upperarm_l"
+		"extent_joints": [
+			{
+				"extent_joint": "lowerarm_l", 
+				"scale": -0.1
+			},
+			{
+				"extent_joint": "lowerarm_l", 
+				"scale": 1.1
+			}
+		]
+	},
+	{
+		"joint_name": "lowerarm_r",
+		"vertex_mask": "lowerarm_r"
+	},
+	{
+		"joint_name": "lowerarm_l",
+		"vertex_mask": "lowerarm_l"
+	},
+	{
+		"joint_name": "hand_r",
+		"vertex_mask": "hand_r"
+	},
+	{
+		"joint_name": "hand_l",
+		"vertex_mask": "hand_l"
+	},
+	{
+		"joint_name": "thigh_r",
+		"vertex_mask": "thigh_r"
+	},
+	{
+		"joint_name": "thigh_l",
+		"vertex_mask": "thigh_l"
+	},
+	{
+		"joint_name": "calf_r",
+		"vertex_mask": "calf_r-1"
+	},
+	{
+		"joint_name": "calf_r",
+		"vertex_mask": "calf_r-2"
+	},
+	{
+		"joint_name": "calf_l",
+		"vertex_mask": "calf_l-1"
+	},
+	{
+		"joint_name": "calf_l",
+		"vertex_mask": "calf_l-2"
+	},
+	{
+		"joint_name": "foot_r",
+		"vertex_mask": "foot_r"
+	},
+	{
+		"joint_name": "foot_l",
+		"vertex_mask": "foot_l"
+	},
+	{
+		"joint_name": "ball_r",
+		"vertex_mask": "ball_r"
+	},
+	{
+		"joint_name": "ball_l",
+		"vertex_mask": "ball_l"
+	}
+	]
+}
